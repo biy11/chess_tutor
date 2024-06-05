@@ -1,5 +1,4 @@
-## Name
-CS22120/CC22120/CS22220 Group Project 02
+## CS22120/CC22120/CS22220 Group Project 02
 
 ## Description
 Group project for group 02 2022/23. Created 27/01/2023
