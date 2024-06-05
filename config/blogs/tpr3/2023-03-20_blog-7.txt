@@ -1,0 +1,42 @@
+Author: TPR3
+Week: 7 (20/03/23)
+
+Assigned actions
+==============
+
+Action 1: Design doc
+
+Created 2 UML sequence diagrams using created code as a refrence and adding
+them to the document
+
+Hours: 3
+
+Action 2: Communication with dev and GUI team
+
+Various communications with teams to understand code for design doc
+
+Hours: 1
+
+Action 3: Finish feedback with on UI spec
+
+Finished editing both the UI document and presentation based on feedback
+
+Hours: 4
+
+Action 4: Design doc review
+
+Organised and led design doc review
+
+Hours: 1
+
+
+Other project work
+================
+Action 5: Unit tests
+
+Created some unit tests for MakeMove class, while doing this I also
+spotted a few bugs which the dev team fixed
+
+Hours: 1
+
+Total hours: 10

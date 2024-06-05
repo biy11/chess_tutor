@@ -1,0 +1,145 @@
+/**
+* @(#) GameGui.java 0.4 2023/03/13.
+*
+* Copyright (c) 2023 Aberystwyth University.
+* All rights reserved.
+**/
+
+
+/**
+* A .css file for the styles used in the Graphical User Interface (GUI).
+ *
+ * @author Bilal [biy1].
+ * @version 0.1 - Initial development.
+ * @version 0.2 - Added styles for buttons and labels .
+ * @version 0.3 - Added Styles for checkboxes.
+ * @version 0.4 - Comments added.
+ * @version 0.5 - Added style for captured pieces labels.
+ * @version 0.6 - Added style for menu prompts and added comments.
+**/
+
+/*sets the button style to have background color of gray, text color of white, font size of 14pt and font family of Times New Roman.*/
+.buttons{
+    -fx-background-color: gray;
+    -fx-text-fill: #f5f5f5;
+    -fx-font-size: 14pt;
+    -fx-font-family: "times new roman"
+}
+
+/*sets the titles style to have bold text, font size of 26pt and font family of Times New Roman.*/
+.titles{
+    -fx-font-size: 26pt;
+    -fx-font-family:"Times New Roman";
+    -fx-font-weight: bold;
+}
+
+/*Sets the background image to an image created by wia14.*/
+.mainBackground{
+    -fx-background-image: url("main_menu_background.jpg");
+}
+
+/*Sets the background to an image created by wia14.*/
+.startGameBackground{
+    -fx-background-image: url("start_game_menu_background.png");
+}
+
+
+/*Sets the text-box to be in the center of screen, have passing of 10px and padding-width of 20pt.*/
+.textBox{
+    -fx-set-alignment: center;
+    -fx-padding: 10px;
+    -fx-padding-width: 20px;
+}
+
+/*Sets padding for stackPane to 600px.*/
+.stackPane{
+    -fx-padding: 300px;
+}
+
+/*Sets the playerLabel to a font size of 18px, text weight to be bold a nd font to be "Times New Roman".*/
+.playerLabel{
+    -fx-font-size: 18pt;
+    -fx-font-family: "Times New Roman";
+    -fx-font-weight: bold;
+    -fx-text-fill: #f5f5f5;
+}
+
+/*Sets labels to have font size of 14, font family of Times New Roman, bold text, padding to be 10, padding-width of 20px, and center aligns all
+content.*/
+.labels{
+    -fx-font-size: 14pt;
+    -fx-font-family: "Times New Roman";
+    -fx-font-weight: bold;
+    -fx-padding: 10;
+    -fx-padding-width: 20px;
+    -fx-set-alignment: center;
+}
+
+/*Sets labels to have font size of 14, font family of Times New Roman, bold text, padding to be 10, padding-width of 20px, and center aligns all
+content.*/
+.color_label{
+    -fx-font-size: 14pt;
+    -fx-font-family: "Times New Roman";
+    -fx-font-weight: bold;
+    -fx-padding: 10;
+    -fx-padding-width: 20px;
+    -fx-set-alignment: center;
+    -fx-text-fill: white;
+}
+
+/*Sets the checkboxes to have a x and y scale of 2, padding of 10 and center aligns the checkboxes*/
+.radioButtons{
+    -fx-scale-x: 1.5;
+    -fx-scale-y: 1.5;
+    -fx-padding: 25;
+    -fx-alignment: center;
+    -fx-font-family: "Times New Roman";
+    -fx-text-fill: #f5f5f5;
+}
+/*Sets style for buttons in game menu.*/
+.buttons_gameMenu{
+    -fx-background-color: gray;
+    -fx-text-fill: white;
+    -fx-font-size: 14pt;
+    -fx-font-family: "Times New Roman";
+    -fx-padding-width: 20;
+    -fx-set-alignment: center;
+}
+/*Sets style for name labels in GUI.*/
+.nameLabel{
+    -fx-background-color: Yellow;
+    -fx-font-family: "Times New Roman";
+    -fx-font-weight: bold;
+    -fx-font-size: 14pt;
+    -fx-padding: 10;
+    -fx-padding-width: 20px;
+    -fx-set-alignment: center;
+}
+/*Sets style for capture box on game screen.*/
+.captureBoxLabel{
+    -fx-font-size: 18pt;
+    -fx-font-family: "Times New Roman";
+    -fx-font-weight: bold;
+    -fx-padding: 20 0 0 0;
+    -fx-padding-width: 20px;
+    -fx-set-alignment: center;
+}
+
+/*Sets padding for the left VBox to be 25px away from both board and window edge.*/
+.game_VBoxes{
+    -fx-padding: 25;
+}
+
+/*Sets the padding for left VBox to be 45px from top and 25px from right*/
+.game_VBoxes_left{
+    -fx-padding: 45 0 0 25;
+}
+/*Sets prompt text size to 24px, sets the font, background color and makes text bold as well as centred */
+.prompt_text{
+    -fx-font-family: "Times New Roman";
+    -fx-font-size: 24;
+    -fx-font-weight: bold;
+    -fx-text-fill: white;
+    -fx-background-color: gray;
+    -fx-set-alignment: center;
+}

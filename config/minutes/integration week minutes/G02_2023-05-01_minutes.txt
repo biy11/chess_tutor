@@ -1,0 +1,64 @@
+Project: Group Project 02 
+Meeting: Integration week day 1
+Persons present: All project members
+Place and date of meeting: Group study room 6, Monday 1st May 2023 
+Circulation list: All project members
+Author: Thomas Roethenbaugh
+Date of minutes: 1/5/23 
+Version: 1.1
+
+Team:
+- ABD15: Abdullah Durrani QA Manager (deputy)
+- BIY1: Bilal Yousufzai
+- JAB153: Jack Book
+- LVS1: Lance Sebastian
+- MJS36: Michael Stamp Team Leader
+- MIB60: Michah Barendse
+- TPR3: Thomas Roethenbaugh QA Manager
+- WIA14: Will Abbott Team Leader (deputy)
+
+Matters arising 
+===============
+1. Refactoring board gui
+- Board gui and game gui classes refactored, seperated into
+different classes to avoid god classes
+- Created packages to keep seperated classes organised
+- Code commenting
+- Removal of warnings
+ACTION: MJS36, BIY1, MIB60
+
+2. Remake EnPassant unit tests
+- Attempted to create new unit tests, issue with EnPassant 
+class discovered
+ACTION: TPR3
+
+3. Fix castling issues and checkmate unit tests
+- Castling issues fixed, unit tests re-created
+- Checkmate issue spotted, unit tests checked
+ACTION: MIB60, BIY1
+
+4. Systems tests report
+- Systems tests report created and formatted correctly, now
+ready for systems tests to be completed
+ACTION: ABD15
+
+5. Look over all unit tests
+- All unit tests checked and finished
+ACTION: LVS1, TPR3
+
+6. Create systems tests classes
+- Progress started on systems tests classes
+ACTION: LVS1
+
+7. Chess piece art
+- Chess piece art created and added to game
+ACTION: WIA14
+
+8. Component and class diagram updates for design doc
+- Discussion with dev team as changes were made so design doc
+remained accurate
+ACTION: WIA14, JAB153
+
+AOB 
+=== 
+none

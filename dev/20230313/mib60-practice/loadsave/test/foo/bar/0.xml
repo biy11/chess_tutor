@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<board>
+   <square>
+      <x-position>0</x-position>
+      <y-position>0</y-position>
+      <piece xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="castle">
+         <colour>BLACK</colour>
+         <ID>C</ID>
+      </piece>
+   </square>
+   <square>
+      <x-position>0</x-position>
+      <y-position>1</y-position>
+      <piece xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="knight">
+         <colour>BLACK</colour>
+         <ID>Kt</ID>
+      </piece>
+   </square>
+   <square>
+      <x-position>0</x-position>
+      <y-position>2</y-position>
+      <piece xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="bishop">
+         <colour>BLACK</colour>
+         <ID>B</ID>
+      </piece>
+   </square>
+   <square>
+      <x-position>0</x-position>
+      <y-position>3</y-position>
+      <piece xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="queen">
+         <colour>BLACK</colour>
+         <ID>Q</ID>
+      </piece>
+   </square>
+   <square>
+      <x-position>0</x-position>
+      <y-position>4</y-position>
+      <piece xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="king">
+         <colour>BLACK</colour>
+         <ID>K</ID>
+      </piece>
+   </square>
+   <square>
+      <x-position>0</x-position>
+      <y-position>5</y-position>
+      <piece xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="bishop">
+         <colour>BLACK</colour>
+         <ID>B</ID>
+      </piece>
+   </square>
+   <square>
+      <x-position>0</x-position>
+      <y-position>6</y-position>
+      <piece xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="knight">
+         <colour>BLACK</colour>
+         <ID>Kt</ID>
+      </piece>
+   </square>
+   <square>
+      <x-position>0</x-position>
+      <y-position>7</y-position>
+      <piece xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="castle">
+         <colour>BLACK</colour>
+         <ID>C</ID>
+      </piece>
+   </square>
+   <square>
+      <x-position>1</x-position>
+      <y-position>0</y-position>
+      <piece xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="pawn">
+         <colour>BLACK</colour>
+         <ID>P</ID>
+      </piece>
+   </square>
+   <square>
+      <x-position>1</x-position>
+      <y-position>1</y-position>
+      <piece xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="pawn">
+         <colour>BLACK</colour>
+         <ID>P</ID>
+      </piece>
+   </square>
+   <square>
+      <x-position>1</x-position>
+      <y-position>2</y-position>
+      <piece xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="pawn">
+         <colour>BLACK</colour>
+         <ID>P</ID>
+      </piece>
+   </square>
+   <square>
+      <x-position>1</x-position>
+      <y-position>3</y-position>
+      <piece xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="pawn">
+         <colour>BLACK</colour>
+         <ID>P</ID>
+      </piece>
+   </square>
+   <square>
+      <x-position>1</x-position>
+      <y-position>4</y-position>
+      <piece xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="pawn">
+         <colour>BLACK</colour>
+         <ID>P</ID>
+      </piece>
+   </square>
+   <square>
+      <x-position>1</x-position>
+      <y-position>5</y-position>
+      <piece xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="pawn">
+         <colour>BLACK</colour>
+         <ID>P</ID>
+      </piece>
+   </square>
+   <square>
+      <x-position>1</x-position>
+      <y-position>6</y-position>
+      <piece xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="pawn">
+         <colour>BLACK</colour>
+         <ID>P</ID>
+      </piece>
+   </square>
+   <square>
+      <x-position>1</x-position>
+      <y-position>7</y-position>
+      <piece xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="pawn">
+         <colour>BLACK</colour>
+         <ID>P</ID>
+      </piece>
+   </square>
+   <square>
+      <x-position>6</x-position>
+      <y-position>0</y-position>
+      <piece xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="pawn">
+         <colour>WHITE</colour>
+         <ID>P</ID>
+      </piece>
+   </square>
+   <square>
+      <x-position>6</x-position>
+      <y-position>1</y-position>
+      <piece xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="pawn">
+         <colour>WHITE</colour>
+         <ID>P</ID>
+      </piece>
+   </square>
+   <square>
+      <x-position>6</x-position>
+      <y-position>2</y-position>
+      <piece xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="pawn">
+         <colour>WHITE</colour>
+         <ID>P</ID>
+      </piece>
+   </square>
+   <square>
+      <x-position>6</x-position>
+      <y-position>3</y-position>
+      <piece xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="pawn">
+         <colour>WHITE</colour>
+         <ID>P</ID>
+      </piece>
+   </square>
+   <square>
+      <x-position>6</x-position>
+      <y-position>4</y-position>
+      <piece xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="pawn">
+         <colour>WHITE</colour>
+         <ID>P</ID>
+      </piece>
+   </square>
+   <square>
+      <x-position>6</x-position>
+      <y-position>5</y-position>
+      <piece xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="pawn">
+         <colour>WHITE</colour>
+         <ID>P</ID>
+      </piece>
+   </square>
+   <square>
+      <x-position>6</x-position>
+      <y-position>6</y-position>
+      <piece xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="pawn">
+         <colour>WHITE</colour>
+         <ID>P</ID>
+      </piece>
+   </square>
+   <square>
+      <x-position>6</x-position>
+      <y-position>7</y-position>
+      <piece xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="pawn">
+         <colour>WHITE</colour>
+         <ID>P</ID>
+      </piece>
+   </square>
+   <square>
+      <x-position>7</x-position>
+      <y-position>0</y-position>
+      <piece xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="castle">
+         <colour>WHITE</colour>
+         <ID>C</ID>
+      </piece>
+   </square>
+   <square>
+      <x-position>7</x-position>
+      <y-position>1</y-position>
+      <piece xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="knight">
+         <colour>WHITE</colour>
+         <ID>Kt</ID>
+      </piece>
+   </square>
+   <square>
+      <x-position>7</x-position>
+      <y-position>2</y-position>
+      <piece xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="bishop">
+         <colour>WHITE</colour>
+         <ID>B</ID>
+      </piece>
+   </square>
+   <square>
+      <x-position>7</x-position>
+      <y-position>3</y-position>
+      <piece xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="queen">
+         <colour>WHITE</colour>
+         <ID>Q</ID>
+      </piece>
+   </square>
+   <square>
+      <x-position>7</x-position>
+      <y-position>4</y-position>
+      <piece xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="king">
+         <colour>WHITE</colour>
+         <ID>K</ID>
+      </piece>
+   </square>
+   <square>
+      <x-position>7</x-position>
+      <y-position>5</y-position>
+      <piece xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="bishop">
+         <colour>WHITE</colour>
+         <ID>B</ID>
+      </piece>
+   </square>
+   <square>
+      <x-position>7</x-position>
+      <y-position>6</y-position>
+      <piece xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="knight">
+         <colour>WHITE</colour>
+         <ID>Kt</ID>
+      </piece>
+   </square>
+   <square>
+      <x-position>7</x-position>
+      <y-position>7</y-position>
+      <piece xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="castle">
+         <colour>WHITE</colour>
+         <ID>C</ID>
+      </piece>
+   </square>
+</board>

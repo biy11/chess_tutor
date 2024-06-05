@@ -1,0 +1,42 @@
+Author: TPR3
+Week: 11 (04/05/23)
+
+Assigned actions
+==============
+
+Action 1: System tests
+
+Worked with Abdullah and Mike to complete all system tests as well
+as find any bugs as we went along
+
+Hours: 5
+
+Action 2: Help team
+
+Communicated with team on daily tasks 
+
+Hours: 0
+
+Action 3: Wrote daily minutes
+
+Wrote the minutes for the day
+
+Hours: 0
+
+Action 4: Repository repair
+
+Began working through the project repository in order to fix any
+problems with how people have structured their blogs
+
+Hours: 2
+
+Other project work
+================
+Action 5: Organised GitLab
+
+Went through the GitLab closing issues and updating progress for the past couple
+of days
+
+Hours: 0
+
+Total hours: 7

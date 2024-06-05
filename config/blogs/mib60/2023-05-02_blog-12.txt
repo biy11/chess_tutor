@@ -1,0 +1,24 @@
+Author: mib60
+Week: 11 (02/05/23)
+
+Assigned actions
+==============
+Action 1: Fixed some issues with replays
+
+Fixed a bug in replays, added a prompt when user tries to choose an out of bound round, added a prompt when user tries to load an invalid directory, changed replays to display the first round, fixed the turn not showing on the first round
+
+Hours: 3
+
+Action 2: Added more unit tests, fixed loading/saving unit tests after changes were made to game saving/loading
+
+Hours: 1
+
+Action 3: Commented code and fixed intellij warnings
+
+Hours: 1
+
+
+Other project work
+================
+
+Total hours: 5

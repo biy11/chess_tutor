@@ -1,0 +1,15 @@
+Author: lvs1
+Week: 9 (03/04/23)
+
+Assigned actions
+==============
+Action 1: Did tasks assigned over easter
+
+Fixed the test errors identified on gitlab and removed duplicate tests
+
+hours: 2
+
+Other project work
+================
+
+Total hours: 2

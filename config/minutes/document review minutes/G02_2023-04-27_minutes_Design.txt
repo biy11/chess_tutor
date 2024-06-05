@@ -1,0 +1,96 @@
+Project: Group Project 02 
+Meeting: Design document review
+Persons present: TPR3, WIA14, MJS36, JAB153
+Place and date of meeting: Group study room 3, Thursday 27th April 2023 
+Circulation list: All project members
+Author: Abdullah Durrani
+Date of minutes: 27/04/23 
+Version: 1.0
+
+Team:
+- ABD15: Abdullah Durrani QA Manager (deputy)
+- BIY1: Bilal Yousufzai
+- JAB153: Jack Book
+- LVS1: Lance Sebastian
+- MJS36: Michael Stamp Team Leader
+- MIB60: Michah Barendse
+- TPR3: Thomas Roethenbaugh QA Manager
+- WIA14: Will Abbott Team Leader (deputy)
+
+abd15,biy1,jab153,lvs1,mjs36,mib60,tpr3,wia14
+Software engineering integration week day 1
+
+Matters arising 
+===============
+1. Review standards checklist A (SE.QA.07)
+- Question 1: FAILED
+- Question 2: PASSED
+- Question 3: PASSED
+- Question 4: PASSED
+- Question 5: PASSED
+- Question 6: PASSED
+
+- 5/6 questions passed
+ACTION: TPR3, MJS36
+
+2. Review standards checklist D (SE.QA.07)
+- Question 1: FAILED
+- Question 2: PASSED
+- Question 3: PASSED
+- Question 4: FAILED
+- Question 5: FAILED
+- Question 6: PASSED
+- Question 7: PASSED
+- Question 8: PASSED
+- Question 9: PASSED
+- Question 10: PASSED
+
+- 7/10 questions FAILED
+ACTION: TPR3, MJS36
+
+
+New business 
+============
+1. Grammar issues
+- Slight issues througout the document
+ACTION: TPR3, WIA14, MJS36, JAB153
+
+2. Issue numbers not assigned correctly
+- Document history does not have correct issue no.
+ACTION: WIA14, MJS36, JAB153
+
+3. Significant Algorithms
+- Significant Algorithms section lacks enough detail
+ACTION: MJS36
+
+4. Update Interfaces
+- The GUI section complete it
+ACTION: JAB153, WIA14
+
+5. Update Diagrams
+- Add the GUI section
+ACTION: JAB153, WIA14
+
+6. Fix Version Number and Dates
+- Self Evident
+ACTION: JAB153, WIA14
+
+7. In significant algorithims use PesudoCode
+- Write simple lower level PesudoCode
+ACTION: MJS36
+
+8. Section 5.4 Add Object diagram
+- Self Evident
+ACTION: JAB153, WIA14
+
+9. Add game state chart diagram
+- Self Evident
+ACTION: JAB153, WIA14
+
+10. Finish Component Diagram
+- Self Evident 
+ACTION: LVS1
+
+AOB 
+=== 
+none

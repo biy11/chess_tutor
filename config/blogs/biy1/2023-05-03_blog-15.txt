@@ -1,0 +1,21 @@
+Author: BIY1
+Week: 11 (04/06/23) - Integration week day 5
+
+Assigned actions
+================
+
+Action 1: System tests on latest changes.
+
+The whole group conducted system tests to ensure the program was fully functional.
+
+Hours: 1
+
+Action 2: Wrote about physical limitations in the maintenance manual.
+
+Helped the docs team by writing about physical limitations in the chessTutor program.
+
+Hours: 1
+
+
+Total hours: 2
+

@@ -1,0 +1,39 @@
+Author: MJS36
+Week: 5 (06/03/23)
+
+
+Assigned actions
+==============
+
+
+Supplementary Assigned actions (decided in private group meeting)
+==============
+
+Action 1: Assign coding sub teams
+
+Hours: 0
+
+Action 2: Backend coding
+
+Started on main project code. I programmed all the piece classes, except Pawn and castling for the King. After Bilal had problems with his version of the Pawn class, I made my own but intend to delete this. I then programmed very basic Board, Square, and Player classes. I also added Game class, a Main class, and two enum classes. As there were struggles with the Pawn class, I developed the Pawn class and the enPassant move checker. I also made a static method to move pieces.
+
+Hours: 7
+
+
+Other project work
+================
+
+Attended supplementary group meeting
+
+Hours: 2
+
+Attended Test review meeting
+
+Hours: 1
+
+Attended Test review #2 meeting
+
+Hours: 1
+
+
+Total hours: 11

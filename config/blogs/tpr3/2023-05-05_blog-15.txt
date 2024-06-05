@@ -1,0 +1,47 @@
+Author: TPR3
+Week: 11 (05/05/23)
+
+Assigned actions
+==============
+
+Action 1: Code QA review
+
+Went through every class to make sure our project passed all
+the questions and was up to QA standards
+
+Hours: 2
+
+Action 2: Help team
+
+Communicated with team on daily tasks 
+
+Hours: 0
+
+Action 3: Wrote daily minutes
+
+Wrote the minutes for the day
+
+Hours: 0
+
+Action 4: Repository repair
+
+Fixed config_refs file and other versioning errors with documents
+
+Hours: 1
+
+Action 5: Sequence diagrams
+
+Created my own sequence diagrams and helped Lance with creating his
+
+Hours: 2
+
+Other project work
+================
+Action 6: Organised GitLab
+
+Went through the GitLab closing issues and updating progress for the past couple
+of days
+
+Hours: 1
+
+Total hours: 5

@@ -1,0 +1,29 @@
+Author: abd15
+Week: 4 (27/02/23)
+ 
+Assigned actions
+==============
+
+Action 1: UI Formal Review
+
+We had a UI formal review where the UI Spec did not pass and we scheduled another formal review for Monday the 27th
+
+Hours: 1
+
+Action 2:  Test specification
+
+Will Have Completed The test specs remaining tests by 9:00 PM Monday The 27th 
+
+Hours: 8
+
+Action 3: Algorithms & data structures research/presentation
+
+Did Not Work on this at Probably done After Test Spec Review 
+
+Hours: 0
+
+Total Hours: 9
+
+Other project work
+================
+N.A

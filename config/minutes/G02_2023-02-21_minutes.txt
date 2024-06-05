@@ -1,0 +1,99 @@
+Project: Group Project 02 
+Meeting: Weekly Project Meeting 
+Persons present: All project members except Bilal Yousufzai
+Place and date of meeting: C57a, Tuesday 20th February 2023 
+Circulation list: All project members, plus project manager 
+Author: Thomas Roethenbaugh 
+Date of minutes: 21/2/23 
+Version: 1.1
+
+Team:
+- ABD15: Abdullah Durrani QA Manager (deputy)
+- BIY1: Bilal Yousufzai
+- JAB153: Jack Book
+- LVS1: Lance Sebastian
+- MJS36: Michael Stamp Team Leader
+- MIB60: Michah Barendse
+- TPR3: Thomas Roethenbaugh QA Manager
+- WIA14: Will Abbott Team Leader (deputy)
+
+Matters arising 
+===============
+1. UI specification
+- Add example users (DONE)
+- List of each error condition (DONE)
+- Add more use cases (DONE)
+- Make use case list unified (DONE)
+- Slides for each use case (presentation) (DONE)
+- Visual UI (presentation) 
+- Use case diagram (this should be done last) (DONE)
+
+- Change order of use cases so that it flows
+better in the UI presentation
+- Properly referencing chess.com/checking if we can use
+their UI
+ACTION: LVS1, TPR3, WIA14, JAB153
+
+2. Test specification
+- Fill test specification with use cases (DONE)
+- Fill the Software Engineering Test Specifications FR test table
+ACTION: ABD15, MIB60
+
+3. Implementation
+- Research different algorithms and data structures to present to
+the group.
+- Start the code project (DONE)
+ACTION: MJS36, ABD15, BIY1
+
+4. UI specification document & presentation review
+- Wednesday 22nd February at 11:00AM in group study room 4 
+ACTION: LVS1, TPR3, WIA14, JAB153, MJS36
+
+5. Test specification document review
+- Wednesday 1st March at 01:00PM in group study room 8
+ACTION: TPR3, MJS36, ABD15, MIB60
+
+6. Problems with blogs 
+- Problems with dates
+- Strange formatting
+- Overview of what a blog should look like
+- Overview of when it should be done by
+ACTION: ALL
+
+7. Problems with repo commits
+- Seperated commits
+ACTION: ALL
+
+New business 
+============
+11. Change UC06 promotion (Visual UI)
+- Needs to not cover the 
+ACTION: JAB153
+
+12. Remove use case for toggle button (UC20)
+- No longer needed
+ACTION: TPR3
+
+13. Add new use case diagram
+- Update current one to be in line with new changes
+ACTION: LVS1
+
+14. Add to presentation a prompt for each player's turn
+- Make it clearer in the presentation who's turn it is
+ACTION: JAB153
+
+15. Change timetable of reviews and meetings
+- Add another meeting for week the test document week
+ACTION: TPR3
+
+16. Seperate minutes folders
+- Minutes need to be seperated based on if tutorial or meeting etc
+ACTION: TPR3
+
+17. Saving and loading xml files
+- Research on how to save and load files based on xml data
+ACTION: MIB60
+
+AOB 
+=== 
+NONE

@@ -1,0 +1,52 @@
+Project: Group Project 02 
+Meeting: Integration week day 3
+Persons present: All project members
+Place and date of meeting: Group study room 5/6, Wednesday 3rd May 2023 
+Circulation list: All project members
+Author: Thomas Roethenbaugh
+Date of minutes: 3/5/23 
+Version: 1.1
+
+Team:
+- ABD15: Abdullah Durrani QA Manager (deputy)
+- BIY1: Bilal Yousufzai
+- JAB153: Jack Book
+- LVS1: Lance Sebastian
+- MJS36: Michael Stamp Team Leader
+- MIB60: Michah Barendse
+- TPR3: Thomas Roethenbaugh QA Manager
+- WIA14: Will Abbott Team Leader (deputy)
+
+Matters arising 
+===============
+1. Create system test saves
+- Created several system test saves to make system tests
+faster
+ACTION: TPR3
+
+2. Update game UI
+- Game UI was updated to give the player a
+bette user experience
+ACTION: BIY1
+
+3. Bug fixing
+- Fixed bugs during save game testing
+- Fixed issues with unit tests
+ACTION: MJS36, BIY1, MIB60, TPR3, ABD15
+
+4. Commenting code and fixing warnings
+- Going through each class to remove warnings
+& comment code that has not been commented (issue #70)
+- All classes now covered and issue closed
+DONE
+ACTION: ABD15, BIY1, MIB60
+
+5. Design doc diagrams
+- Component diagram finished
+- Class diagram finished
+- Object diagram started
+ACTION: JAB153, WIA14
+
+AOB 
+=== 
+none

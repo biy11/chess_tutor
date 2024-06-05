@@ -1,0 +1,50 @@
+Author WIA14
+Week: 4 (27/02/23)
+
+Assigned actions
+==============
+
+Action 1: Attended UI review meeting
+
+Attended internal review meeting for the UI specification and UI presentation. Went through 
+both documents and identified errors or changes that needed to be made
+
+Hours: 1
+
+
+Action 2: Made changes to Use cases and error cases in UI specification document
+
+Made changes to the UI specification document, identified in the review meeting (Action 1), such
+as error case changes and use case changes
+
+Hours: 3
+
+
+Action 3: Correct grammatical errors within the UI specification document
+
+Went through entire UI specification document and identified and fixed grammatical errors that needed
+to be changes before the submission deadline
+
+Hours: 2
+
+
+Action 4: Updated UI presentation Use case number
+
+Changes the old use case numbers before they were moved around, so they correctly correspond to 
+the new numbers
+
+Hours: 1
+
+
+Action 5: Attend review meeting
+
+Attended the reveiew meeting and made minor changes to the UI Specification document before submission
+
+Hours: 1
+
+
+Other project work
+================
+
+
+Totals Hours: 8

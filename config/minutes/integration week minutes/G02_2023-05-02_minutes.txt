@@ -1,0 +1,69 @@
+Project: Group Project 02 
+Meeting: Integration week day 2
+Persons present: All project members
+Place and date of meeting: Group study room 5, Tuesday 2nd May 2023 
+Circulation list: All project members
+Author: Thomas Roethenbaugh
+Date of minutes: 2/5/23 
+Version: 1.1
+
+Team:
+- ABD15: Abdullah Durrani QA Manager (deputy)
+- BIY1: Bilal Yousufzai
+- JAB153: Jack Book
+- LVS1: Lance Sebastian
+- MJS36: Michael Stamp Team Leader
+- MIB60: Michah Barendse
+- TPR3: Thomas Roethenbaugh QA Manager
+- WIA14: Will Abbott Team Leader (deputy)
+
+Matters arising 
+===============
+1. Get replays working
+- Dev team worked together to get replays working
+with the game gui
+ACTION: MJS36, BIY1, MIB60, ABD15
+
+2. Get saving and loading working with gui
+- Dev team got saving and loading game state for 
+both replays and continuing games working with 
+the game gui
+ACTION: MJS36, BIY1, MIB60, ABD15
+
+3. Create system test classes
+- Classes created
+- Checkmate and check classes completed
+- Promotion started
+ACTION: LVS1, TPR3
+
+4. Bug fixing
+- Remove pawn during promotion
+- Unit test errors fixed
+- Design flaw for popup
+- Replay error fixed
+ACTION: MJS36, BIY1, MIB60, TPR3, ABD15
+
+5. Test program on university pc
+- Tested program on university pc
+- Some imports needed
+- Errors found with replays & promotion
+ACTION: MJS36, TPR3, JAB153
+
+6. Commenting code and fixing warnings
+- Going through each class to remove warnings
+& comment code that has not been commented (issue #70)
+ACTION: ABD15
+
+7. Work on component diagram
+- Discussed with dev team and Chris what would be needed
+- Component diagram nearly finished
+ACTION: JAB153
+
+8. Class diagram updates
+- Class diagram was updated as the dev team made changes
+to the code
+ACTION: WIA14
+
+AOB 
+=== 
+none

@@ -1,0 +1,22 @@
+Author: lvs1
+Week: 3 (20/02/23)
+
+Assigned actions
+==============
+
+Action 1: Learn JavaFX 
+
+Progressed on my Personal Project, drawn a simple chess board
+
+Hours: 1
+
+Action 2: UI Specification
+
+Updated the UI spec, updated and added error conditions, updated use condition, and added reference 
+
+Hours: 3
+
+Other project work
+================
+
+Total hours: 4

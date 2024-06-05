@@ -1,0 +1,25 @@
+Author WIA14
+Week: 9 (24/04/23)
+
+Assigned actions
+==============
+
+Action 1: Read SE.QA.10
+
+Read through 'SE.QA.10 - Producing a final report' document to understand how the maintenance manual
+should be written
+
+Hours: 1
+
+
+Action 2: Started work on Maintenance Manual
+
+Started work on the maintenance manual with JAB153, added program and file descriptions
+
+Hours: 3 
+
+
+Other project work
+================
+
+Totals Hours: 4

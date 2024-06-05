@@ -1,0 +1,17 @@
+Author: abd15
+Week: 9 (25/04/23)
+
+Assigned actions 
+================
+
+Action 1: Work on the GUI
+
+I went through over the GUI classes to get a sense of what was needed and what was done over the spring
+
+Hours: 1
+
+Total hours: 1
+
+Other project work
+================
+N.A

@@ -1,0 +1,48 @@
+Author: mib60
+Week: 10 (30/04/23)
+
+Assigned actions
+==============
+
+
+
+Other project work
+================
+
+Action 1: Added movement check for if the king is put in check
+
+Implemented a check that makes moves that put the friendly king in check not possible
+
+Hours: 1
+
+Action 1: Fixed castling
+
+Fixed castling being possible when it puts the king in check
+
+Hours: 1
+
+Action 2: Fixed En Passant
+
+Fixed En Passant being possible when it puts the king in check
+
+Hours: 1
+
+Action 3:
+
+Worked on Castling tests
+
+Hours: 1
+
+Fixed warnings
+
+Fixed warnings in previous code I have made
+
+Hours: 1
+
+Fixed CheckChecker error
+
+I fixed recursion between CheckChecker and the function that removes moves that place the king in check
+
+Hours: 1
+
+Total hours: 6

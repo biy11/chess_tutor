@@ -1,0 +1,74 @@
+Project: Group Project 02 
+Meeting: Design document review
+Persons present: TPR3, WIA14, MJS36, JAB153
+Place and date of meeting: Group study room 7, Monday 20th March 2023 
+Circulation list: All project members
+Author: Thomas Roethenbaugh 
+Date of minutes: 20/3/23 
+Version: 1.1
+
+Team:
+- ABD15: Abdullah Durrani QA Manager (deputy)
+- BIY1: Bilal Yousufzai
+- JAB153: Jack Book
+- LVS1: Lance Sebastian
+- MJS36: Michael Stamp Team Leader
+- MIB60: Michah Barendse
+- TPR3: Thomas Roethenbaugh QA Manager
+- WIA14: Will Abbott Team Leader (deputy)
+
+Matters arising 
+===============
+1. Review standards checklist A (SE.QA.07)
+- Question 1: PASSED
+- Question 2: PASSED
+- Question 3: PASSED
+- Question 4: FAILED
+- Question 5: PASSED
+- Question 6: PASSED
+
+- 5/6 questions passed
+ACTION: TPR3, MJS36
+
+2. Review standards checklist D (SE.QA.07)
+- Question 1: FAILED
+- Question 2: PASSED
+- Question 3: FAILED
+- Question 4: FAILED
+- Question 5: FAILED
+- Question 6: FAILED
+- Question 7: PASSED
+- Question 8: PASSED
+- Question 9: FAILED
+- Question 10: PASSED
+
+- 4/10 questions passed
+ACTION: TPR3, MJS36
+
+
+New business 
+============
+3. Grammar issues
+- Slight issues througout the document
+ACTION: TPR3, WIA14, MJS36, JAB153
+
+4. Issue numbers not assigned correctly
+- Document history does not have correct issue no.
+ACTION: WIA14, MJS36, JAB153
+
+5. Missing component diagram
+- Document lacks component diagram
+ACTION: JAB153
+
+6. Incorrect referencing
+- Referencing in the document is not completed properly 
+(see refence [2])
+ACTION: JAB153
+
+7. Significant Algorithms
+- Significant Algorithms section lacks enough detail
+ACTION: MJS36
+
+AOB 
+=== 
+none

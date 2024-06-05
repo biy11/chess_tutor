@@ -1,0 +1,36 @@
+Author: BIY1
+Week: 11 (02/05/23) - Integration week day 2
+
+Assigned actions
+================
+
+Action 1: Fixed bug with buttons.
+
+Buttons should not be clickable after resignation or accepted draw, so I had to disable them.
+
+Hours: 2
+
+Action 2: Changed style so text is more visible.
+
+Menu to input names and select color has text that was a bit difficult to see, so I changed the style of it.
+
+Hours: 1
+
+Action 3: Work with Michael to debug code, clean-up, and add comments.
+
+Some functions were taking in parameters that were unused, some code was messy/unessecary so were therfore, cleaned and fixed.
+
+Hours: 5
+
+Other Project work
+==================
+
+Action 2: Added style and fixed layout. 
+
+Fixed minor styling issues and updated version numbers.
+
+Hours: 1
+
+
+Total hours: 9
+

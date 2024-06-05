@@ -1,0 +1,25 @@
+Author: abd15
+Week: 11 (01/05/23)
+
+Assigned actions 
+================
+
+Action 1: Worked on the test report
+
+Created a skeleton of the Test Report
+
+Hours: 3
+
+Action 2: Miscellaneous Work
+
+After the skeleton was done just helped whoever needed help and did some bug testing on the code and some visual 
+design changes
+
+Hours: 5
+
+Other Project work
+==================
+N.A
+
+Total hours: 8
+

@@ -1,0 +1,28 @@
+Author: TPR3
+Week: 9 (24/04/23)
+
+Assigned actions
+==============
+
+Action 1: Fix unit test issues
+
+Removed problems with EnPassant unit tests
+
+Hours: 1
+
+Action 2: Update weekly hours
+
+Updated weekly hours
+
+Hours: 0
+
+
+Other project work
+================
+Action 2: Communication with team
+
+Communicated with team on several issues
+
+Hours: 1
+
+Total hours: 2

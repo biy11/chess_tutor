@@ -1,0 +1,21 @@
+Author: MJS36
+Week: 11 (03/05/23)
+
+
+Assigned actions
+==============
+
+
+Supplementary Assigned actions (decided in private group meeting)
+==============
+
+
+Other project work
+================
+
+General bug fixing and refactoring. Worked on Significant Algorithms for Design Spec. Ready to start Final Report.
+
+Hours: 6
+
+
+Total hours: 6

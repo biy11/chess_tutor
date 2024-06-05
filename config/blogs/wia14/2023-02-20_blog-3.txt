@@ -1,0 +1,44 @@
+Author WIA14
+Week: 3 (20/02/23)
+
+Assigned actions
+==============
+
+Action 1: Update UI specification document
+
+Updated the UI specification document with specific use case descriptions, as well as
+any error use cases that may arise. 
+Also added and removed some use cases to cover more users interactions.
+Combined the use cases into one typical users
+
+Hours: 3
+
+
+Action 2: Watched Supplementary meeting recording to catch up 
+
+Missed supplementary meeting so caught up by watching the recording supplied by Thomas (tpr3) 
+(see minutes)
+
+Hours: 2
+
+
+Action 3: Added example users to the UI specification
+
+Added specific example users to the User interface specification with Jack (jab153), to show the 
+different kinds of users that may use the chess game.
+
+Hours: 1
+
+
+Action 4: Minor changes to UI document
+
+Added use case diagram, made minor changes such as Use case reference changes
+
+Hours: 1
+
+
+Other project work
+================
+
+
+Totals Hours: 7

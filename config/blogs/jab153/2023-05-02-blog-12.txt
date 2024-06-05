@@ -1,0 +1,24 @@
+Author: jab153
+Week: 11 Day 2 (02/05/23)
+
+Assigned actions
+==============
+
+
+Action 1: Worked on component diagram
+
+Hours: 4
+
+Action 2: Updated Design DOC
+
+Hours: 1
+
+Action 3: Worked on state diagram
+
+Hours: 1
+
+
+Other project work
+================
+
+Total hours: 6

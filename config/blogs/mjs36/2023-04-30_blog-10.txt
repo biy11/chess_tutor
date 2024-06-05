@@ -1,0 +1,27 @@
+Author: MJS36
+Week: 10 (30/04/23)
+
+
+Assigned actions
+==============
+
+
+Supplementary Assigned actions (decided in private group meeting)
+==============
+
+
+Other project work
+================
+
+Work on own version of Chess GUI to see if there are improvements over currently developed.
+
+Hours: 4
+
+Work on frontend code
+
+Work on Bill's work to link with backend. As it was built not to use backend, it used a lot of unnecessary methods. Therefore I made a v2 of his boardGui class. This works far better.
+
+Hours: 8
+
+
+Total hours: 12

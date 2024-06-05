@@ -1,0 +1,72 @@
+Author: TPR3
+Week: 3 (20/02/23)
+
+Assigned actions
+==============
+
+Action 1: Book supplementary meeting
+
+Booked meeting for Wednesday
+
+Hours: 0
+
+Action 2: Attend supplementary meeting
+
+Attended and supported Micheal for meeting discussing UI spec and spliting the
+group into various teams. UI, Test, Dev. Also recorded meeting for those who
+were not able to attend.
+
+Hours: 2
+
+Action 3: Assigned GitLab issues to team members
+
+Following the supplementary meeting, I assigned each person their tasks for the
+week by giving them a GitLab issue to close.
+
+Hours: 1
+
+Action 4: Add more use cases to the user interface specification
+
+Added more use cases to the UI spec document with descriptions. Also formatted the 
+error conditions correctly as well.
+
+Hours: 3
+
+Action 5: Check each person's blogs
+
+Went through each person's blog, some had not uploaded in time and other's had
+uploaded last week's blog with a new date. Many errors need to be fixed and I
+decided to bring it up in the next tutorial.
+
+Hours: 1
+
+Action 6: Check each document for formatting issues
+
+Blogs had many issues, need to go over them with the team
+
+Hours: 1
+
+Action 7: Update weekly hours
+
+Done
+
+Hours: 0
+
+Action 7: Organise UI spec & test spec review meetings
+
+Organised and invited the selected people
+
+Hours: 0
+
+
+Other project work
+================
+Action 4: Format config_refs file
+
+Took a while to properly format, struggled to understand exactly what I was
+doing wrong.
+
+Hours: 1
+
+
+Total hours: 8

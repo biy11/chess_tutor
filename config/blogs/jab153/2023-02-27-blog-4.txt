@@ -1,0 +1,23 @@
+Author: jab153
+Week: 4 (27/02/23)
+
+Assigned actions
+==============
+
+Action 1: Worked on UI presentation
+
+Hours: 4
+
+Action 2: Attended UI Spec Review
+
+Hours: 1
+
+Action 3: Attended UI Spec Review 2
+
+Hours: 1
+
+
+Other project work
+================
+
+Total hours: 6

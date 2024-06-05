@@ -1,0 +1,27 @@
+Author WIA14
+Week: 2 (13/02/23)
+
+Assigned actions
+==============
+
+Action 1: Update UI specification document
+
+Updated the UI specification document with specific use case descriptions, as well as
+any error use cases that may arise. 
+Also added and removed some use cases to cover more users interactions.
+
+Hours: 4
+
+
+Action 2: Attend Supplementary meeting
+
+Attended supplementary meeting and assigned roles to group members (see minutes)
+
+Hours: 2
+
+
+Other project work
+================
+
+
+Totals Hours: 6

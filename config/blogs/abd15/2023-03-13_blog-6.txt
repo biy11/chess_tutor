@@ -1,0 +1,27 @@
+Author: abd15
+Week: 6 (06/03/23) 
+
+Assigned actions
+==============
+
+Action 1: ReLearn JavaFX
+
+Just went over the previous code written by Micheal in his and took notes on how certain things were done and learned about the different objects in JavaFX 
+and watched tutorials online (I should have asked for help in retrospect from the team members)
+
+Hours: 4
+
+Action 2: Read over the current design of the program and the intricacies
+
+Hour: 1
+
+Other project work
+================
+
+Action 3: Spike Code
+
+The spike code was just for self study and was not helpful to the Dev Build of ChessTutor simple things from tutorial's online
+
+Hours: 2
+
+Total Hours: 7

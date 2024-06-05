@@ -1,0 +1,49 @@
+Author: TPR3
+Week: 11 (03/05/23)
+
+Assigned actions
+==============
+
+Action 1: QA code
+
+Went through the QA code spec to make sure all the code
+written complied with QA standards
+
+Hours: 1
+
+Action 2: Help team
+
+Organised final tasks and gave everyone who did not have a
+job something to do
+
+Hours: 0
+
+Action 3: Wrote daily minutes
+
+Wrote the minutes for the day
+
+Hours: 0
+
+Action 4: System tests
+
+Created several game saves so that the system tests could be carried
+out quicker for tomorrow
+
+Hours: 2
+
+Action 4: Fixed code comments and warnings 
+
+Fixed code comments and warnings with several unit tests
+
+Hours: 2
+
+Other project work
+================
+Action 6: Organised GitLab
+
+Went through the GitLab closing issues and updating progress for the past couple
+of days
+
+Hours: 0
+
+Total hours: 5

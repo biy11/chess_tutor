@@ -1,0 +1,27 @@
+Author: mib60
+Week: 11 (03/05/23)
+
+Assigned actions
+==============
+Action 1: Helped Jack and Will with system diagrams
+
+Hours: 2
+
+Action 2: Fixed copyright and javadocs and commented code
+
+Hours: 2
+
+Action 3: Made and fixed unit tests
+
+Hours: 1
+
+Action 4: Cleaned and improved old code
+
+Hours: 1
+
+
+Other project work
+================
+
+
+Total hours: 6

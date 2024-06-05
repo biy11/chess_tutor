@@ -1,0 +1,48 @@
+Project: Group Project 02 
+Meeting: Weekly Project Meeting 
+Persons present: All project members, plus project manager 
+Place and date of meeting: C57a, Tuesday 28th February 2023  
+Circulation list: All project members, plus project manager
+Author: Thomas Roethenbaugh 
+Date of minutes: 28/2/23 
+Version: 1.1
+
+Team:
+- ABD15: Abdullah Durrani QA Manager (deputy)
+- BIY1: Bilal Yousufzai
+- JAB153: Jack Book
+- LVS1: Lance Sebastian
+- MJS36: Michael Stamp Team Leader
+- MIB60: Michah Barendse
+- TPR3: Thomas Roethenbaugh QA Manager
+- WIA14: Will Abbott Team Leader (deputy)
+
+Matters arising 
+===============
+1. UI specification
+- Review minutes
+- UI spec document
+- UI presentation
+ACTION: TPR3, MJS36, JAB153, LVS1, WIA14
+
+New business 
+============
+2. Tomorrow's test review
+- Breakdown of progress
+- Reminder of tomorrow's review
+ACTION: TPR3, MJS36, ABD15, MIB60
+
+3. Design specification/Gameplan
+- Overiew of design specification
+- UI team new roles
+- Test team roles after submission
+ACTION: ALL
+
+4. Overview of spike code
+- MIB60 talked through his code
+- MJS36 talked through his code
+ACTION: MIB60, TPR3, MJS36
+
+AOB 
+=== 
+NONE

@@ -1,0 +1,43 @@
+Author: WIA14
+Week: 1 (06/02/23)
+
+Assigned actions
+==============
+
+
+Action 1: Read general project documentation
+
+Read through general documentation to outline what the outcome of the project will be and 
+documents that need to be updated regurlarly.
+
+Hours: 2
+
+
+Action 2: Attend group meeting
+
+Met with some members of the group and discussed tasks for each attendee (see minutes).
+
+Hours: 2
+
+
+Action 3: Everyone must watch the Panopto recording on how to build the UI specification.
+
+Watched panopto recording within group meeting
+
+Hours: 0
+
+
+Action 4: One or two people to read SE.QA.04 and start working on UI specification
+by making a list of possible use cases based on the requirements document,
+and to report back to the group next week.
+
+Read SE.QA.04, met up and began listing the use cases within a document, with Thomas (TPR3). 
+Created document for UI Specifiation.
+
+Hours: 1
+
+Other project work
+================
+
+
+Total hours: 5

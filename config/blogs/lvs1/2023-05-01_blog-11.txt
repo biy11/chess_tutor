@@ -1,0 +1,22 @@
+Author: lvs1
+Week: 11 (01/05/23)
+
+Assigned actions
+==============
+
+Action 1: Framework Entire System Tests
+
+Created the system tests described in the Test Spec
+
+hours: 3
+
+Action 2: Create GUI System for System Tests
+
+Copied main GUI system and currently trying to adapt it to show only 
+
+hours: 4
+
+Other project work
+================
+
+Total hours: 7

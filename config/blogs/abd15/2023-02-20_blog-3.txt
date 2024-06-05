@@ -1,0 +1,29 @@
+Author: abd15
+Week: 3 (20/02/23) 
+
+Assigned actions
+==============
+
+Action 1: UI specification
+
+We had a meeting Sorting out the UI specs and Use Case Prototype and hashing out who needs to do what where in the group project specifically for the UI
+
+Hours: 2
+
+Action 2:  Test specification, write More tests, Fix history
+
+Completed the structure of the table and came up with tests on some pieces and started with the tests on the special moves like en-passant, promotions, and castling
+
+Hours: 2
+
+Action 3: Algorithms & data structures research/presentation
+
+I didn't do much Document will be done by Thursday but might be able to speed it out if needed by the spikework/implementation team urgently
+
+Hours: 1
+
+Total Hours: 5
+
+Other project work
+================
+N.A

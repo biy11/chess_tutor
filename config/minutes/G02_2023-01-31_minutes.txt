@@ -1,0 +1,79 @@
+Project: Group Project 02 
+Meeting: Weekly Project Meeting 
+Persons present: All project members 
+Place and date of meeting: C57a, Tuesday 31st January 2023 
+Circulation list: All project members, plus project manager 
+Author: Chris Loftus 
+Date of minutes: 31/01/23, 02/02/23 
+Version: 1.1
+
+Matters arising 
+===============
+NONE
+
+New business 
+============
+1. Introductions 
+ACTION: ALL
+- abd15: Abdullah Durrani
+- biy1: Bilal Yousufzai
+- jab153: Jack Book
+- lvs1: Lance Sebastian
+- mjs36: Michael Stamp
+- mib60: Michah Barendse
+- tpr3: Thomas Roethenbaugh
+- wia14: Will Abbott
+
+2. Discuss project brief and intro documents
+ACTION: CWL
+
+3. Role of project manager
+ACTION: CWL
+
+4. Status of group Gitlab repository?
+Done. Everybody is on.
+ACTION: ALL
+
+5. One or two people to read SE.QA.04 and start working on UI specification
+by making a list of possible use cases based on the requirements document,
+and to report back to the group next week.
+ACTION: LVS1, TPR3, WIA14
+
+7. Everyone must watch the Panopto recording on how to build the UI specification.
+ACTION: ALL
+
+8. Everyone must read the group project introduction document and the 
+requirements specification. 
+ACTION: ALL
+
+9. one or two people to read SE.QA.06 and to 
+start making system tests for the test specification and to 
+report back to the group next week.
+ACTION: ABD15, MIB60
+
+10. One or two people to think about implementation – what kinds 
+of code will you need? What are the difficult problems? 
+Report back findings next week.
+ACTION: MJS36, TPR3
+
+11. One or two people to try starting to program the on-screen display: 
+that is get up to speed with javafx. Report back next week.
+ACTION: LVS1, MJS36, TPR3
+
+12. Someone to look into the documents SE.QA.01, 02 and 03, 
+and to explain how QA works on the project.
+ACTION: BIY1, JAB153
+
+13. Start thinking about who should be project leader and quality
+assurance manager and their deputies. Discuss next week.
+ACTION: ALL
+
+14. Blogs for next tutorial. To be added to gitlab the
+day before the tutorial.
+ACTION: ALL
+
+AOB 
+=== 
+14. Internal meeting discussed: Wednesday libray. After 1pm. Will confirm on Discord. Will book room. ACTION: TPR3: DONE!
+1:30pm Group study room 6, 1st Feb
+15. Comms mechanism to use: own Discord server. ACTION: MJS36

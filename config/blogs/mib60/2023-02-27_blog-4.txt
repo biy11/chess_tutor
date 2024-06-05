@@ -1,0 +1,30 @@
+Author: mib60
+Week: 4 (27/02/23)
+
+Assigned actions
+==============
+
+Action 1: Created system tests
+
+Created and wrote system tests into test specification
+
+Hours: 3
+
+Action 2: Learned about using XML with java
+
+Hours: 2
+
+Action 3: Started working on game state saving/loading prototype
+
+Hours: 2
+
+Other project work
+================
+
+Action 1: Watched panopto lectures and wrote blog
+
+Watched L4B, L4C
+
+Hours: 1
+
+Total hours: 8

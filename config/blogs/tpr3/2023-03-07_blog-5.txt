@@ -1,0 +1,40 @@
+Author: TPR3
+Week: 5 (07/03/23)
+
+Assigned actions
+==============
+
+Action 1: Unit testing
+
+Created basic spike code for unit testing
+
+Hours: 1
+
+
+Other project work
+================
+Action 2: Arrange test spec reviews
+
+Booked rooms and organised minutes for two reviews for test spec
+
+Hours: 2
+
+Action 3: Work on feedback given by Chris
+
+Looked at the feedback given by Chris and worked on most of it
+
+Hours: 2
+
+Action 4: Update config_refs file
+
+Updated it to format correctly with all the changes
+
+Hours: 0
+
+Action 5: Update weekly hours
+
+Updated the hours according to blogs
+
+Hours: 0
+
+Total hours: 6

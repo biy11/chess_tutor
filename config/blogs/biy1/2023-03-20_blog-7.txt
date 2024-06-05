@@ -1,0 +1,29 @@
+Author: BIY1
+Week: 7 (20/03/23)
+
+Assigned actions
+================
+
+Action 1: Develop game GUI.
+
+I contninued working on the GameGui.java class with abd15, for players to be able to play the game.
+
+Hours: 10
+
+Other Project work
+==================
+
+Action 2: Watched the recording of the group meeting. 
+
+Due to illness, I could not attend  the group meeting in person, therefore, I watched the recording of it.
+
+Hours: 1
+
+ACtion 3: Communicate with adb15 regarding our work.
+
+Had two Discord calls with adb15 discussing how to approach the work and how to split up the task.
+
+Hours: 2
+
+Total hours: 13
+

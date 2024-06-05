@@ -1,0 +1,29 @@
+Author: BIY1
+Week: 3 (20/02/23)
+
+Assigned actions
+================
+
+Action 1: Code the Piece class and classes for the individual chess pieces
+
+Created a class called Pieces, the functions in this class will be inherited by all chess pieces and the ones with special conditions such as;
+Castling, Pawn promotion and En Passant.
+
+Hours: 3
+
+Other Project work
+==================
+
+Action 2:
+
+Attended group meeting on 14/02/23 to discuss actions to be taken and UI idea paths.
+
+Hours: 2
+
+Action 3:
+
+Researched ways to implement Check mate and stale mate as well as other possible structures for the coding 
+
+Hours: 3
+
+Total hours: 8

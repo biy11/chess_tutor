@@ -1,0 +1,26 @@
+Author: lvs1
+Week: 11 (05/05/23)
+
+Assigned actions
+==============
+
+Action 1: Testing code
+
+Went through the program testing previous failures
+
+hours: 1
+
+Action 2: Sequence Diagrams
+
+Created the remaining diagrams
+
+hours: 3
+
+Action 3: Updating weekly hours
+
+hours: 1
+
+Other project work
+================
+
+Total hours: 5

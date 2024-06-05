@@ -1,0 +1,22 @@
+Author: mib60
+Week: 8 (17/04/23)
+
+Assigned actions
+==============
+
+Action 1: Integrated saving/loading
+
+I integrated most saving and loading features in the main game code
+
+Hours: 3
+
+Action 2: Wrote unit tests
+
+I wrote unit tests for Checkmate, Check, Saving, and Loading
+
+Hours: 2
+
+Other project work
+================
+
+Total hours: 5

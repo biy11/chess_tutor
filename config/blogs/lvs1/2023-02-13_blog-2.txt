@@ -1,0 +1,23 @@
+Author: lvs1
+Week: 2 (13/02/23)
+
+Assigned actions
+==============
+
+Action 1: Learn JavaFX 
+
+Learnt the basics and systems of JavaFX, started and currently developing
+a personal project to help with UI
+
+Hours: 3
+
+Action 2: UI Specification
+
+Took a look at the UI specification
+
+Hours: 0
+
+Other project work
+================
+
+Total hours: 3

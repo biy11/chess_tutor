@@ -1,0 +1,94 @@
+Project: Group Project 02 
+Meeting: Supplementary Project Meeting 
+Persons present: All project members except Bilal Yousufzai (Had an industrial year 
+interview), Jack Book (Did not respond to Discord messages), Lance Sebastian (extra curricular activity)
+Place and date of meeting: Group Study 6, Wednesday 01st February 2023 
+Circulation list: All project members, plus project manager 
+Author: Thomas Roethenbaugh
+Date of minutes: 01/02/23 
+Version: 1.1
+
+- ABD15: Abdullah Durrani
+- BIY1: Bilal Yousufzai
+- JAB153: Jack Book
+- LVS1: Lance Sebastian
+- MJS36: Michael Stamp
+- MIB60: Michah Barendse
+- TPR3: Thomas Roethenbaugh
+- WIA14: Will Abbott
+
+Matters arising 
+===============
+1. Establish each team member's tasks and what their plan is to complete them
+We went over each role we agreed to in our tutorial and then agreed on each persons plan
+of action from there.
+ACTION: ALL
+- abd15: Adbdullah Durrani - Will work with Michah to develop a presentation on what tests will need to be carried out
+- biy1: Bilal Yousufzai - Undefined
+- jab153: Jack Book - Undefined
+- lvs1: Lance Sebastian - Undefined
+- mjs36: Michael Stamp - Start experimenting with JavaFX and work with Will & Thomas to see if design is possible
+- mib60: Michah Barendse - Will work with Adbdullah to develop a presentation on what tests will need to be carried out
+- tpr3: Thomas Roethenbaugh - Work with will to create design and start PowerPoint
+- wia14: Will Abbott - Work with will to create design and start PowerPoint
+
+2. See who is interested in becoming Team lead & QA lead as well as who will be their deputies
+Leadership roles were disscused but it was decided that we would wait to vote. Thomas Roethenbaugh
+was put forward as the possible QA lead & Michael Stamp put himself forward to deputy. Will also
+expressed interest in a deputy position.
+ACTION: ALL
+- abd15: Adbdullah Durrani
+- biy1: Bilal Yousufzai
+- jab153: Jack Book
+- lvs1: Lance Sebastian
+- mjs36: Michael Stamp - Possible QA deputy (TBD)
+- mib60: Michah Barendse
+- tpr3: Thomas Roethenbaugh - Possible QA lead (TBD)
+- wia14: Will Abbott - Possible team lead deputy
+
+3. Someone in the team must take ownership of SE.QA.04 and be clear on what is needed
+Thomas Roethenbaugh & Will Abbott have taken responsibilty for this task, Lance Sebastian will
+be informed about what was discussed on the discord.
+ACTION: tpr3, wia14, lvs1
+
+4. Everyone must watch the Panopto recording on how to build the UI specification.
+ACTION: ALL
+- abd15: Adbdullah Durrani (DONE)
+- biy1: Bilal Yousufzai (UNKOWN)
+- jab153: Jack Book (UNKOWN)
+- lvs1: Lance Sebastian (UNKOWN)
+- mjs36: Michael Stamp (DONE)
+- mib60: Michah Barendse (DONE)
+- tpr3: Thomas Roethenbaugh (DONE)
+- wia14: Will Abbott (DONE)
+
+5. one or two people to read SE.QA.06 and to 
+Plan made and both have agreed to start immediately.
+ACTION: ABD15, MIB60
+
+6. One or two people to try starting to program the on-screen display: 
+Michael Stamp will start experimenting with JavaFX and wait for design.
+ACTION: LVS1, MJS36, TPR3
+
+New business 
+============
+1. Decide on tools to use for UI e.g. Figma, Fluid UI, Canva
+Decided to use Figma and Canva for the design.
+ACTION: TPR3, WIA14, LVS1
+
+2. Decide on tools for code e.g. IntelliJ, Visual Studio
+Decided to use IntelliJ for all programing.
+ACTION: ALL
+
+3. Decide on documentation tools e.g. LaTeX, Microsoft Word Maybe
+Argument over Word vs LaTeX, decided to use what people prefer and resolve issue
+at the end of the project.
+ACTION: ALL
+
+4.  Add discord integration
+Is now working on Discord, every time somone pushes to the repo the discord is updated.
+ACTION: MJS36
+
+AOB 
+=== 
+NONE

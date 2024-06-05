@@ -1,0 +1,62 @@
+Author: MJS36
+Week: 1 (06/02/23)
+
+
+Assigned actions
+==============
+
+Action 1: Create discord server
+
+A basic server was setup to discuss the project. Channels were made to add the spec documents and the meeting minutes.
+
+Hours: 1
+
+Action 2: Everyone must watch the Panopto recording on how to build the UI specification
+
+This was watched during the supplementary group meeting
+
+Hours: 0
+
+Action 3: Everyone must read the group project introduction document and the requirements specification. 
+
+Hours: 1
+
+Action 4: JavaFX and Java tinkering
+
+My JavaFX skills are very lacking. I decided instead to spend this week researching others implementations of a Java Chess game and starting on my own implementation. This implementation could be used to influence the main project code.
+
+Hours: 6
+
+Action 5: Start thinking about who should be project leader and quality assurance manager and their deputies. Discuss next week.
+
+I believe I will put my name forward to be the project leader. I believe this will lead to the best result for the group.
+
+Hours: 0
+
+Action 6: Blogs for next tutorial. To be added to gitlab the day before the tutorial.
+
+Hours: 1
+
+
+Supplementary Assigned actions (decided in private group meeting)
+==============
+
+Action 1: Discord/Gitlab integration
+
+A webhook was added to the discord to show gitlab commits.
+
+Hours: 0
+
+
+Other project work
+================
+
+Basic maintenance of discord server - creating roles and channels
+
+Hours: 1
+
+Attended supplementary group meeting
+
+Hours: 2
+
+Total hours: 12

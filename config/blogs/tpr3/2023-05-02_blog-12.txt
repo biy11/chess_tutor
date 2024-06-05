@@ -1,0 +1,49 @@
+Author: TPR3
+Week: 11 (02/05/23)
+
+Assigned actions
+==============
+
+Action 1: Unit tests
+
+Fixed EnPassant unit test with the help of Mike. Went through other unit tests
+to make sure they all worked properly
+
+Hours: 2
+
+Action 2: Help team
+
+Just like on day 1 Spoke with team throughout the day, wrote down the daily goals 
+and wrote down each persons' objectives to be completed by the end of the day
+
+Hours: 1
+
+Action 3: Wrote daily minutes
+
+Wrote the minutes for the day
+
+Hours: 0
+
+Action 4: System tests
+
+Helped Lance write system test classes for check and promotion
+
+Hours: 2
+
+Action 5: Test program on university pc
+
+Tested our program on a university pc with Mike
+
+Hours: 0
+
+
+Other project work
+================
+Action 6: Organised GitLab
+
+Went through the GitLab closing issues and updating progress for the past couple
+of days
+
+Hours: 1
+
+Total hours: 5

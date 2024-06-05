@@ -1,0 +1,21 @@
+Author: MJS36
+Week: 11 (01/05/23)
+
+
+Assigned actions
+==============
+
+
+Supplementary Assigned actions (decided in private group meeting)
+==============
+
+
+Other project work
+================
+
+Worked on Refactoring BoardGui code. Worked on GameGui. Answered technical questions from group.
+
+Hours: 8
+
+
+Total hours: 8

@@ -1,0 +1,24 @@
+Author: BIY1
+Week: 11 (03/05/23) - Integration week day 3
+
+Assigned actions
+================
+
+Action 1: Added comments, fixed warinings and updated version number.
+
+Went through classes and comented them, fixed warnings and made sure formatting was correct.
+
+Hours: 8
+
+Other Project work
+==================
+
+Action 2: Added style and fixed layout. 
+
+Fixed style for color selection radiobuttons and name player name Hbox.
+
+Hours: 1
+
+
+Total hours: 9
+

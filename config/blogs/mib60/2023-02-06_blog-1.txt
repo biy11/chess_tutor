@@ -1,0 +1,29 @@
+Author: mib60
+Week: 1 (30/01/23)
+
+Assigned actions
+==============
+
+Action 1: Created system tests
+
+Created and wrote system tests into a table for Functional Requirements 1-5
+
+Hours: 2
+
+Action 2: Read up on standards
+
+I read SE.QA.02, SE.QA.06, The Requirements Specification, and watched the Panapto recording on User Interface Specifications
+
+Hours: 1
+
+
+Other project work
+================
+
+Action 3: Attended the weekly supplementary meeting 
+
+I attended the weekly supplementary meeting
+
+Hours: 1
+
+Total hours: 4

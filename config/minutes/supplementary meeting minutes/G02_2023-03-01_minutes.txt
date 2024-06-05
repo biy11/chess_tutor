@@ -1,0 +1,47 @@
+Project: Group Project 02 
+Meeting: Supplementary Project Meeting
+Persons present: All project members except WIA14
+Place and date of meeting: Group study room 8, Tuesday 1st March 2023 
+Circulation list: All project members
+Author: Thomas Roethenbaugh
+Date of minutes: 1/3/23 
+Version: 1.1
+
+Team:
+- ABD15: Abdullah Durrani QA Manager (deputy)
+- BIY1: Bilal Yousufzai
+- JAB153: Jack Book
+- LVS1: Lance Sebastian
+- MJS36: Michael Stamp Team Leader
+- MIB60: Michah Barendse
+- TPR3: Thomas Roethenbaugh QA Manager
+- WIA14: Will Abbott Team Leader (deputy)
+
+Matters arising 
+===============
+1. New game plan
+- Test spec still needs more work
+- New teams created and broadly split into two groups: Coding & documentation
+ACTION: ALL
+
+New business 
+============
+2. Sections
+- Backend (algorithims, board, arrays)
+- Frontend (GUI)
+ACTION: ALL
+
+3. Sub teams
+- Testing/Unit Testing: LVS1, ABD15, TPR3
+- Backend: MIB60, MJS36, BIY1
+- GUI: ABD15, MJS36
+- XML: MIB60
+- Documentation: TPR3, JAB153, MJS36, WIA14
+
+Backend is main priority for this week, code needs to be figured out so that
+the documentation team can start work on the design document.
+ACTION: ALL
+
+AOB 
+=== 
+NONE

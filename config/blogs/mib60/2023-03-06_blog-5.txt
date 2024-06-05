@@ -1,0 +1,45 @@
+Author: mib60
+Week: 5 (06/03/23)
+
+Assigned actions
+==============
+
+Action 1: Fixed system test spec
+
+Fixed issues with the test spec from the review meeting
+
+Hours: 2
+
+
+Action 2: Attended test spec review meetings
+
+Attended the test specification review meeting and the follow up test spec review meeting
+
+Hours: 2
+
+
+Action 3: Attended the weekly meeting
+
+I attended the weekly meeting
+
+Hours: 1
+
+
+Action 4: Worked on the game save/load code
+
+Fixed the whole board saving and made other changes
+
+Hours: 3
+
+
+Action 4: Worked on castling code
+
+Made working code for the castling functionality
+
+Hours: 2
+
+Other project work
+================
+
+
+Total hours: 10

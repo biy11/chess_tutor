@@ -1,0 +1,14 @@
+Author: BIY1
+Week: 9 (25/04/23)
+
+Assigned actions
+================
+
+Action 1: Integrate work done over easter with main project.
+
+I added to the main chesstutor folder, work that I had done over easter but not yet implemented in the main code.
+
+Hours: 1
+
+Total hours: 1
+

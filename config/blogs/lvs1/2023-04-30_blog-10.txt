@@ -1,0 +1,18 @@
+Author: lvs1
+Week: 10 (30/04/23)
+
+Assigned actions
+==============
+
+Action 1: Fix testKing() bugs
+
+hours: 1
+
+Action 2: Wednesday Meeting
+
+hours: 3
+
+Other project work
+================
+
+Total hours: 4

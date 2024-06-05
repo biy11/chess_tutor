@@ -1,0 +1,32 @@
+Author: lvs1
+Week: 1 (06/02/23)
+
+Assigned actions
+==============
+
+Action 1: Started General Presentation for Overall Project 
+
+Has Use-Cases and related to specification
+
+Hours: 3
+
+Action 2: Take ownership of SE.QA.04, be clear on what is neeeded
+
+Read the SE.QA.04
+
+Hours: 0
+
+Action 3: Create UI design
+
+Designed basic layout for Chess Tutor
+
+Hours: 1
+
+
+Other project work
+================
+Watched the panopto lecture for UI
+
+Hours: 0
+
+Total hours: 4

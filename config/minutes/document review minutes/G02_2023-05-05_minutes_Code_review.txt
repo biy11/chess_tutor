@@ -1,0 +1,44 @@
+Project: Group Project 02 
+Meeting: Code verification review
+Persons present: All project members
+Place and date of meeting: Group study room 6, Friday 20th March 2023 
+Circulation list: All project members
+Author: Thomas Roethenbaugh 
+Date of minutes: 5/5/23 
+Version: 1.2
+
+Team:
+- ABD15: Abdullah Durrani QA Manager (deputy)
+- BIY1: Bilal Yousufzai
+- JAB153: Jack Book
+- LVS1: Lance Sebastian
+- MJS36: Michael Stamp Team Leader
+- MIB60: Michah Barendse
+- TPR3: Thomas Roethenbaugh QA Manager
+- WIA14: Will Abbott Team Leader (deputy)
+
+Matters arising 
+===============
+1. Review standards checklist E (SE.QA.07)
+- Question 1: PASSED
+- Question 2: PASSED
+- Question 3: PASSED
+- Question 4: PASSED
+- Question 5: PASSED
+- Question 6: PASSED
+- Question 7: PASSED
+- Question 8: PASSED
+- Question 9: PASSED
+- Question 10: PASSED
+
+- 10/10 questions passed
+ACTION: TPR3, MJS36
+
+
+New business 
+============
+
+
+AOB 
+=== 
+none

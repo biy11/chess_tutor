@@ -1,0 +1,73 @@
+Project: Group Project 02 
+Meeting: Weekly Project Meeting 
+Persons present: All project members
+Place and date of meeting: C57a, Tuesday 25th April 2023  
+Circulation list: All project members, plus project manager
+Author: Thomas Roethenbaugh 
+Date of minutes: 25/4/23 
+Version: 1.1
+
+Team:
+- ABD15: Abdullah Durrani QA Manager (deputy)
+- BIY1: Bilal Yousufzai
+- JAB153: Jack Book
+- LVS1: Lance Sebastian
+- MJS36: Michael Stamp Team Leader
+- MIB60: Michah Barendse
+- TPR3: Thomas Roethenbaugh QA Manager
+- WIA14: Will Abbott Team Leader (deputy)
+
+Matters arising 
+===============
+1. Design doc
+- Feedback and notes taken
+- Thursday 27th 10-12 QA
+ACTION: TPR3, JAB153, WIA14, MJS36
+
+2. GUI
+- Integration with backend NOT DONE *Prioity*
+- Fix movement NOT DONE
+- Vaild moves NOT DONE
+- Changes to UI spec NOT DONE
+ACTION: ABD15, BIY1, MJS36, TPR3
+
+4. Unit testing
+- Errors with current unit tests need to be addressed NOT DONE
+ACTION: LVS1, TPR3
+
+5. Saving and loading
+- Needs to be integrated with the rest of the program DONE
+- Write Unit tests for saving and loading DONE
+- Check and Checkmate DONE
+ACTION: MIB60
+
+6. Overview of dealines
+- Thursday 27th 10-12   : QA Design doc deadline
+- Booked rooms so far   : Tuesday group study room 5
+- Thur 4th May 12pm     : Code review deadline
+- Mon 8th May           : User manual deadline
+- ??? May               : End of project report deadline
+- Thursday 27th 10-12   : UI QA doc deadline
+ACTION: ALL
+
+
+New business 
+============
+7. System tests class
+- Basic framework comleted
+- As many system test classes as possible
+ACTION: LVS1, TPR3
+
+8. Breakdown of how this week and integration week
+- 10AM tomorrow Library 4 hours
+- Backend & frontend integrated
+- Menu UI incosistainces
+- Avoid soft lock by checking if King is on board
+- Check checker line 62
+- Send email about location to chris
+- Book monday for integration week
+ACTION: ALL
+
+AOB 
+=== 
+none

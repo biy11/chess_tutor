@@ -1,0 +1,77 @@
+Project: Group Project 02 
+Meeting: Supplementary Project Meeting 
+Persons present: All project members except Will Abbott & Lance Sebastian
+Place and date of meeting: C57a, Tuesday 15th February 2023 
+Circulation list: All project members
+Author: Thomas Roethenbaugh 
+Date of minutes: 15/2/23 
+Version: 1.1
+
+Team:
+- abd15: Abdullah Durrani
+- biy1: Bilal Yousufzai
+- jab153: Jack Book
+- lvs1: Lance Sebastian
+- mjs36: Michael Stamp
+- mib60: Michah Barendse
+- tpr3: Thomas Roethenbaugh
+- wia14: Will Abbott
+
+Matters arising 
+===============
+1. UI specification
+We went through what needed to be covered and what other use cases
+needed to be added.
+ACTION: ALL
+
+2. List of goals of what everyone is doing
+Gave an overiew of what each person's task is and also listed each team
+for this week.
+
+UI - WIA14, TPR3, LVS1, JAB153
+TESTING - MIB60, ABD15
+DEV - MJS36, BIY1
+
+ACTION: ALL
+
+New business 
+============
+1. Add example users
+ACTION: WIA14
+
+2. Make use case list unified
+ACTION: WIA14
+
+3. Add more use cases
+ACTION: TPR3
+
+4. List of each error condition
+ACTION: WIA14, TPR3
+
+5. Use case diagram (this should be done last)
+ACTION: JAB153
+
+6. User Interface Specification mini-review
+ACTION: WIA14, TPR3, JAB153, LVS1, MJS36
+
+7. Visual UI (presentation)
+ACTION: JAB153
+
+8. Slides for each use case (presentation)
+ACTION: JAB153
+
+9. Fill the Software Engineering Test Specifications FR test table
+ACTION: MIB60, ABD15
+
+10. Fill test specification with use cases
+ACTION: MIB60, ABD15
+
+11. Start code project
+ACTION: MJS36, BIY1
+
+12. Algorithms & data structures research/presentation
+ACTION: ABD15
+
+AOB 
+=== 
+NONE

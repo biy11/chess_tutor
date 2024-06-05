@@ -1,0 +1,26 @@
+Author WIA14
+Integration Week (07/05/23)
+
+Day: 3 - 03/05/23
+
+Assigned actions
+==============
+
+Action 1: Finished Class Diagram
+
+Wrote down all class interactions, and replicated that into the class diagram
+
+Hours: 4
+
+
+Action 2: Theory for Object diagram
+
+
+Hours: 2
+
+
+Other project work
+================
+
+
+Totals Hours: 6

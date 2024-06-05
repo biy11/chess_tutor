@@ -1,0 +1,28 @@
+Author: mib60
+Week: 2 (06/02/23)
+
+Assigned actions
+==============
+
+Action 1: Created system tests
+
+Created and wrote system tests into a table for Functional Requirements 1-5, also editted some and fixed the history table
+
+Hours: 3
+
+Action 2: Watched recorded lectures
+
+Watched L2C, L2D, and L2E
+
+Hours: 1
+
+Other project work
+================
+
+Action 3: Attended the weekly supplementary meeting 
+
+I attended the weekly supplementary meeting
+
+Hours: 1
+
+Total hours: 5

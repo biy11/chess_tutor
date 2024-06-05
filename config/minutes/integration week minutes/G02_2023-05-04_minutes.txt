@@ -1,0 +1,48 @@
+Project: Group Project 02 
+Meeting: Integration week day 4
+Persons present: All project members
+Place and date of meeting: Group study room 6/C56, Thursday 4th May 2023 
+Circulation list: All project members
+Author: Thomas Roethenbaugh
+Date of minutes: 4/5/23 
+Version: 1.1
+
+Team:
+- ABD15: Abdullah Durrani QA Manager (deputy)
+- BIY1: Bilal Yousufzai
+- JAB153: Jack Book
+- LVS1: Lance Sebastian
+- MJS36: Michael Stamp Team Leader
+- MIB60: Michah Barendse
+- TPR3: Thomas Roethenbaugh QA Manager
+- WIA14: Will Abbott Team Leader (deputy)
+
+Matters arising 
+===============
+1. System tests
+- Ran through all system tests
+- 4 test failures
+- Problem with EnPassant
+- Problem with saving and loading
+- All bugs discovered were fixed
+- Passed all system tests
+- Code QA will be done tomorrow
+ACTION: TPR3, ABD15, MJS36, BIY1
+
+2. Repository repair
+- Going through blogs
+- Going through all minutes 
+- Updating weekly hours
+ACTION: TPR3
+
+3. Design doc diagrams
+- All diagrams updated
+ACTION: JAB153, WIA14, LVS1
+
+4. Maintenance manual
+- Maintenance manual worked on
+ACTION: JAB153, WIA14
+
+AOB 
+=== 
+none

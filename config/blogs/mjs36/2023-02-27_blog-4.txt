@@ -1,0 +1,34 @@
+Author: MJS36
+Week: 4 (27/02/23)
+
+
+Assigned actions
+==============
+
+
+Supplementary Assigned actions (decided in private group meeting)
+==============
+
+
+Other project work
+================
+
+Attended UI review meeting
+
+Hours: 1
+
+Reviewed UI Spec & Presentation before review meeting
+
+Hours: 1
+
+Attended UI review #2 meeting
+
+Hours: 1
+
+JavaFX
+
+Program JavaFX so that when a piece is clicked, it moves forward one space (which is represented on the internal array), and is then represented on the GUI.
+
+Hours: 2
+
+Total hours: 5

@@ -1,0 +1,23 @@
+Author: ABD15
+Week: 11 (04/05/23)
+
+Assigned actions
+================
+
+Action 1: Bug Finding
+
+Played the game cartain ways to find bugs found one involving checkmate not letting me save the replay
+
+Hours: 1
+
+Action 2: System Testing
+
+Worked with Thomas and Michael doing System testing from the Test Report
+
+Hours: 6
+
+Other Project work
+==================
+N.A
+
+Total hours: 7

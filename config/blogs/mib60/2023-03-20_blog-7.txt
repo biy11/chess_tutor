@@ -1,0 +1,22 @@
+Author: mib60
+Week: 7 (20/03/23)
+
+Assigned actions
+==============
+
+Action 1: Implemented saving/loading (Class annotations and GameSaveManager functions). Some parts had to be changed due to the main code changing
+
+Hours: 1
+
+Action 3: Wrote Saving/Loading and Check/Checkmate information into the design doc
+
+Hours: 1
+
+Other project work
+================
+
+Action 2: Made changes to Test Specification based on Chris's feedback including creating some saved test scenarios
+
+Hours: 2
+
+Total hours: 4

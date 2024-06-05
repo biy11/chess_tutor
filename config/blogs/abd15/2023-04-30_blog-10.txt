@@ -1,0 +1,25 @@
+Author: abd15
+Week: 10 (30/04/23)
+ 
+Assigned actions
+================
+
+Action 1: Integrate front-end work with back-end work
+
+Read over the Front-end and changed it so it interacts with the backend more but came to the conclusion 
+with michael that it needs a full rewrite
+
+Hours: 5
+
+Action 2: UISpec and DesignSpec review.
+
+Met with the UISpec and DesignSpec Teams in a meeting and reviewed them passed the UISpec and failed the DesignSpec
+
+Hours: 2 
+
+Other Project work
+==================
+N.A
+
+Total hours: 7
+

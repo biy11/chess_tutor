@@ -1,0 +1,28 @@
+Author: BIY1
+Week: 1 (30/01/23)
+
+Assigned actions
+================
+
+Action 1: Watch panopto recording on how to build the UI specification, read the group introduction document and requiremnt specification. (from minutes of previous week)
+
+Watched the UI specification recording on panopto. I then read through the group project introduction document and the requirement specification.
+
+Hours: 1
+
+Action 2: Look into documents SE.QA.01, 02 and 03, and to explain how QA works on the project
+
+I read through all the documents and then wrote a short summary for all three. This will then be presented to the group for the next meeting at 07/02/23.
+
+Hours: 2
+
+Other Project work
+==================
+
+Action 3: GitBash
+
+Went through git bash commands 
+
+Hours: 0
+
+Total hours: 3

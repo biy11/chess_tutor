@@ -1,0 +1,28 @@
+Author: BIY1
+Week: 5 (06/03/23)
+
+Assigned actions
+================
+
+Action 1: Developed Pawn Class for chessTutor   
+
+I devloped the Pawn class, finding all possible moves for pawn and devloped En Passant functionality 
+
+Hours: 8
+
+Other Project work
+==================
+
+Action 2: Updated UML Class diagram 
+
+Updated the UML Class digarm for the project with respect to the new changes in code
+
+Hours: 1
+
+Action 3: Attended group meeting
+
+Attended group meeting on design specification on date 01.03.2023 
+
+Hours: 1
+
+Total hours: 10

@@ -1,0 +1,55 @@
+Author: TPR3
+Week: 2 (13/02/23)
+
+Assigned actions
+==============
+
+Action 1: Organise supplementary meeting and team lead election
+
+Organised and led meeting, organised vote and then helped Jack find a role
+
+Hours: 1
+
+Action 2: Use scene builder to create a mockup
+
+Created a mockup and shared with team
+
+Hours: 0
+
+Action 3: Figure out how to share intellij
+
+Can use its built in online sharing system
+
+Hours: 0
+
+
+Other project work
+================
+Action 4: Give feedback on each blog
+
+Went through each one and messaged them
+
+Hours: 1
+
+Action 5: Organise repository and add files such as weekly
+hours and config_refs
+
+DONE
+
+Hours: 1
+
+Action 6: Communicated with team on each of their tasks when they were 
+unsure how to proceed or faced technical issues. Also gave feedback to 
+any submitted work.
+
+Hours: 2
+
+Action 7: Create all the milestones and issues for the GitLab repository
+and assign each member to their task.
+
+Managed to get most of it working but can't seem to asign multiple people
+to an issue
+
+Hours: 2
+
+Total hours: 8

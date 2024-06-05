@@ -1,0 +1,24 @@
+Author: ABD15
+Week: 11 (05/05/23)
+
+Assigned actions
+================
+
+Action 1: Code QA review
+
+Went over the code with Thomas and Micheal fixing comments adding them and correcting other problems
+
+Hours: 2
+
+Action 2: Making and Debugging Jar File
+
+Followed the tutorial and made the jar file but didn't work as expected so debugged the jar file to see why
+
+Hour: 2
+
+Other Project work
+==================
+N.A
+
+Total hours: 2
+

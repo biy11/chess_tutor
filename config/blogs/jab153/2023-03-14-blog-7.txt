@@ -1,0 +1,28 @@
+Author: jab153
+Week: 7 (21/03/23)
+
+Assigned actions
+==============
+
+Action 1: Edited Design Document
+
+Hours: 2
+
+Action 2: Attended supplementary meeting
+
+Hours: 1
+
+Action 3: Created component diagram 
+
+Hours: 4
+
+Action 4: Attended Design doc review
+
+Hours: 1
+
+
+
+Other project work
+================
+
+Total hours: 8

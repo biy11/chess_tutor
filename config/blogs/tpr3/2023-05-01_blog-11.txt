@@ -1,0 +1,35 @@
+Author: TPR3
+Week: 11 (01/05/23)
+
+Assigned actions
+==============
+
+Action 1: Unit tests
+
+Worked on EnPassant unit test, issue discovered relating to ArrayList<int[]>.
+Difficulty faced with correctly testing pawns, values could not be used and
+memory addresses were received instead.
+
+Hours: 4
+
+Action 2: Help team
+
+Spoke with team throughout the day, wrote down the daily goals and wrote down
+each persons' objectives to be completed by the end of the day. Also disscussed
+systems tests classes with Lance and spoke with document team about component
+diagrams.
+
+Hours: 1
+
+Action 3: Wrote daily minutes
+
+Wrote the minutes for the day
+
+Hours: 0
+
+
+Other project work
+================
+
+
+Total hours: 5

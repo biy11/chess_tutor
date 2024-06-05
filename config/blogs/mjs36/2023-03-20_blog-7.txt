@@ -1,0 +1,57 @@
+Author: MJS36
+Week: 7 (20/03/23)
+
+
+Assigned actions
+==============
+
+Action 1: Write up Backend-related code to Design Doc
+
+Updated Significant Classes and Interface Descriptions of all relevant packages and classes. Added Make a Move algorithm description
+
+Hours: 3
+
+
+Supplementary Assigned actions (decided in private group meeting)
+==============
+
+
+Other project work
+================
+
+Attended supplementary group meeting
+
+Hours: 2
+
+Attended Design Doc Review
+
+Hours: 1
+
+Added CheckChecker to the main project
+
+I also updated the code to be in line with the style of the others
+
+Hours: 1
+
+Added a Promote method
+
+Hours: 0
+
+Added Javadocs for all backend classes
+
+Hours: 1
+
+Changed all code (only one method now uses it) to use Board board instead of Square[][] boardArray as a parameter.
+
+Due to this, I also needed to add a Clone method to Board and implement the Cloneable method.
+
+All GUI and Test code was updated to reflect the changes. As well as the Design Doc.
+
+Hours: 1
+
+Fixed poor grammar and awful sentence structure in design doc
+
+Hours 1
+
+
+Total hours: 9

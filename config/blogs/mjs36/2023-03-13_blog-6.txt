@@ -1,0 +1,33 @@
+Author: MJS36
+Week: 6 (13/03/23)
+
+
+Assigned actions
+==============
+
+Action 1: Finish Backend Code
+
+Changed the way enPassant status works. Removed all enPassant from the Pawn class. Moved it so it adds the Pawn, if enPassant can be done on it, to a static HashMap of the Game class. The Pawn will then be removed from the HashMap when the opponent has taken their turn.
+Developed the makeMove class with methods to move enPassant and Castling moves. Also added a method so that when a Piece is taken, it is added to the players list of taken pieces.
+Changed how enPassant works. Discovered that I didn't need to worry about round count as could add it one move, then remove it next move as it has to be taken by the next move to be valid. Therefore, moved it out of Game class and put it in Board class.
+
+Hours: 2
+
+
+Supplementary Assigned actions (decided in private group meeting)
+==============
+
+
+Other project work
+================
+
+Due to lack of communication, couldn't start work on frontend like I expected to.
+
+Hours: 0
+
+Reviewed others code work
+
+Hours: 1
+
+
+Total hours: 3

@@ -1,0 +1,36 @@
+Author: BIY1
+Week: 11 (04/05/23) - Integration week day 4
+
+Assigned actions
+================
+
+Action 1: Finalised styles in GUI.
+
+Talked with group members and updated styles to be final across the GUI.
+
+Hours: 1
+
+Action 2: System testing
+
+Partook in system testing. Recreated failed tests with devs to see if issues were solves.
+
+Hours: 5
+
+Action 3: Wrote about interfaces in maintainnace manuel.
+
+Helped docs team by outlining intefaces used in the GUI so users can interact with the game.
+
+hour: 1
+
+Other Project work
+==================
+
+Action 2: Played chess on chess tutor.
+
+Played games of chess tutor, looking for possible faults and reasonable improvements.
+
+Hours: 1
+
+
+Total hours: 8
+

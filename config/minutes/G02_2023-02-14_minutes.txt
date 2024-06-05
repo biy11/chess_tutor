@@ -1,0 +1,98 @@
+Project: Group Project 02 
+Meeting: Weekly Project Meeting 
+Persons present: All project members
+Place and date of meeting: C57a, Tuesday 14th February 2023 
+Circulation list: All project members, plus project manager 
+Author: Thomas Roethenbaugh 
+Date of minutes: 14/2/23 
+Version: 1.1
+
+Team:
+- abd15: Abdullah Durrani
+- biy1: Bilal Yousufzai
+- jab153: Jack Book
+- lvs1: Lance Sebastian
+- mjs36: Michael Stamp
+- mib60: Michah Barendse
+- tpr3: Thomas Roethenbaugh
+- wia14: Will Abbott
+
+Matters arising 
+===============
+1. UI specification
+- More detail (DONE)
+- UC descriptions (DONE)
+- UC diagram add to spec (NOT DONE)
+- UI prototype screens (NOT DONE)
+ACTION: LVS1, TPR3, WIA14
+
+2. Test specification.
+- More tests (DONE)
+- Fix history (DONE)
+ACTION: ABD15, MIB60
+
+3. Implementation issues 
+- Research different algorithms for check/checkmate
+Some work completed, ArrayLists 64 bit integer text file 
+ACTION: MJS36, TPR3, ABD15
+
+4. javafx. 
+- SceneBuilder, CSS ....
+TBD at a later date
+ACTION: LVS1, MJS36, TPR3
+
+5. Project leader. Decide tomorrow
+DONE
+ACTION: ALL
+
+6. Read SE.QA.07/08 and present to group.
+DONE
+ACTION: ABD15, BIY1
+
+7. Shared intellij project: 
+DONE
+ACTION: TPR3
+
+8. Decide who will work on the presentation & make it clear what they need 
+to do as well as when they need to do it by.
+- Jack has created a draft, Lance will help
+ACTION: WIA14, LVS1, JAB153
+
+9. UML diagrams
+DONE
+ACTION: BIY1, JAB153
+
+10. GitLab Issues & Milestones
+ACTION: TPR3
+
+New business 
+============
+11. UI specification document & presentation review
+- TBD date
+ACTION: TPR3, MJS36...
+
+12. Test specification document review
+- TBD date
+ACTION: TPR3, MJS36...
+
+13. Sub-team assignments - UI/design, dev, testing, documentation?
+TBD
+ACTION: ALL
+
+14. Spike work overview
+Mike gave explained to the team what he had been working on and I 
+briefly went over scene builder and its uses
+ACTION: TPR3, MJS36
+
+15. Change UI document to simplify use cases
+Will will change the UI document to only have one list of use cases
+for simplicity
+ACTION: WIA14, LVS1
+
+16. List of goals of what everyone is doing
+To be covered in tommorrows meeting
+ACTION:	MJS36 
+
+AOB 
+=== 
+NONE

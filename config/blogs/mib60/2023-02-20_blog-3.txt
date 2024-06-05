@@ -1,0 +1,27 @@
+Author: mib60
+Week: 3 (20/02/23)
+
+Assigned actions
+==============
+
+Action 1: Created system tests
+
+Created and wrote system tests into test specification
+
+Hours: 4
+
+Action 2: Watched panopto lectures and wrote blog
+Watched L3C, L3D
+
+Hours: 1
+
+Other project work
+================
+
+Action 3: Attended the weekly supplementary meeting 
+
+I attended the weekly supplementary meeting
+
+Hours: 2
+
+Total hours: 7

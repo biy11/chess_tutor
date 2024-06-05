@@ -1,0 +1,27 @@
+Author: BIY1
+Week: 4 (27/02/23)
+
+NOTE!: I was not able to contribute much this week as I had a family emergency, having me go home for a week
+which I have notified the team as well as the project manager. 
+
+Assigned actions
+================
+
+Action 1: Updated UML class diagram  
+
+Updated the UML class diagram with the spike work already done by the project leader. 
+
+Hours: 2
+
+Other Project work
+==================
+
+Action 2:
+
+Looked through the spike code and took notes on what we already have and what more needs to be added.
+The following is missing: En Passant, Rook and Queen swapping due to castling, capturing piece, check, checkmate, stalemate
+and possible point system. 
+
+Hours: 1
+
+Total hours: 3

@@ -1,0 +1,24 @@
+Author: BIY1
+Week: 10 (30/04/23)
+
+Assigned actions
+================
+
+Action 1: Integrate front-end work with back-end work.
+
+Worked to make the front-end code to be based on the back-end, also fixed warnings and bug in code.
+
+Hours: 2
+
+Other Project work
+==================
+
+Action 2: Attended group meeting. 
+
+Attended group meeting to discusss and work on the project.
+
+Hours: 3
+
+
+Total hours: 5
+

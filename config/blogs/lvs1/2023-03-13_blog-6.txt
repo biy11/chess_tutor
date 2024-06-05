@@ -1,0 +1,21 @@
+Author: lvs1
+Week: 6 (13/03/23)
+
+Assigned actions
+==============
+Action 1: Read and Understand Spike Code
+
+Read through Spike Code, created framework of tests
+
+hours: 1
+
+Action 2:Create JUnit Tests
+
+Created JUnit Tests for Board, Game, Player, and Square classes
+
+hours: 6
+
+Other project work
+================
+
+Total hours: 7

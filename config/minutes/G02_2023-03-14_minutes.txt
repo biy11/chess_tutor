@@ -1,0 +1,92 @@
+Project: Group Project 02 
+Meeting: Weekly Project Meeting 
+Persons present: All project members, plus project manager except BIY1
+Place and date of meeting: C57a, Tuesday 14th March 2023  
+Circulation list: All project members, plus project manager
+Author: Thomas Roethenbaugh 
+Date of minutes: 14/3/23 
+Version: 1.1
+
+Team:
+- ABD15: Abdullah Durrani QA Manager (deputy)
+- BIY1: Bilal Yousufzai
+- JAB153: Jack Book
+- LVS1: Lance Sebastian
+- MJS36: Michael Stamp Team Leader
+- MIB60: Michah Barendse
+- TPR3: Thomas Roethenbaugh QA Manager
+- WIA14: Will Abbott Team Leader (deputy)
+
+Matters arising 
+===============
+1. Design doc tasks
+- Move the design spec review to 1 in the afternoon for next week
+- Cross check against SEQA5 to make sure we don't make the same 
+mistakes
+- Unit test classes need to be in there
+- XML packages will also need to be added
+ACTION: TPR3, JAB153, WIA14, MJS36
+
+2. GUI
+- Use scene builder to mock up XML version of GUI based on UI spec
+ACTION: ABD15
+
+3. Finish off backend
+- Castling needs to be done
+- Moves method
+- Check/Checkmate
+- En passant
+- Promotion
+- Javadoc formatting
+ACTION: MJS36, MIB60, BIY1
+
+4. New unit testing tasks
+- Lance can now work on the unit testing on his own
+- He will add his unit tests to gp02-project\dev\chesstutor
+ACTION: LVS1
+
+5. XML work
+- Disscussed work as a group with XML examples
+ACTION: MIB60
+
+
+New business 
+============
+6. Design doc tasks
+- Coding team detail for interfaces
+- State diagrams?
+ACTION: JAB153, TPR3, MJS36
+
+7. Group meeting 1 group study room 2
+- Everyone should attend
+ACTION: ALL
+
+8. Board GUI
+- Board ready
+- Clickable pieces
+- Get vaild moves
+ACTION: ABD15, BIY1
+
+9. Unit Tests
+- More tests
+- All piece tests
+ACTION: LVS1
+
+10. XML
+- Saving and loading working
+- Writing into the design doc
+- Link with the GUI team with replays (UC03)
+ACTION: MIB60
+
+11. Feedback UI
+- Needs finishing this week
+ACTION: TPR3
+
+12. Design doc review
+- Moved to Monday
+- Still lots of work to be done
+ACTION: TPR3
+
+AOB 
+=== 
+none

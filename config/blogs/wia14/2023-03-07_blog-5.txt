@@ -1,0 +1,34 @@
+Author WIA14
+Week: 5 (07/03/23)
+
+Assigned actions
+==============
+
+Action 1: Reviewed supplmentary meeting
+
+Caught up on supplementary meeting by talking to group members and reading through supplmentary
+minutes
+
+Hours: 1
+
+
+Action 2: Read SE.QA.05
+
+Read through SE.QA.05 to understand what the document will entail, and understand what is needed 
+
+Hours: 1
+
+
+Action 3: Read DesignDocG02
+
+Read through the example design document to understand what sort of content is needed and how much
+detail the design document will need
+
+Hours: 1
+
+
+Other project work
+================
+
+
+Totals Hours: 3

@@ -1,0 +1,23 @@
+Author: mib60
+Week: 6 (13/03/23)
+
+Assigned actions
+==============
+
+Action 1: Made code to detect check
+
+I wrote code to detect check
+
+Hours: 1
+
+Action 2: Made code to detect checkmate
+
+I wrote code to detect checkmate
+
+Hours: 3
+
+Other project work
+================
+
+
+Total hours: 4

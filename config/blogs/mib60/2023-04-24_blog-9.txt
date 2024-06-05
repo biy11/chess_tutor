@@ -1,0 +1,17 @@
+Author: mib60
+Week: 9 (24/04/23)
+
+Assigned actions
+==============
+
+Action 1: Integrated saving/loading
+
+Fixed saving and loading in the main code and wrote more tests for saving
+
+Hours: 3
+
+
+Other project work
+================
+
+Total hours: 3

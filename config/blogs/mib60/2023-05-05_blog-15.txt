@@ -1,0 +1,23 @@
+Author: mib60
+Week: 11 (05/05/23)
+
+Assigned actions
+==============
+Action 1: System testing
+
+Hours: 1
+
+Action 2: Writing 'Watch While Changing' section in maintenance manual
+
+Hours: 1
+
+Action 3: Made system flow diagram for GUI classes
+
+Hours: 1
+
+
+Other project work
+================
+
+
+Total hours: 3

@@ -1,0 +1,29 @@
+Author: abd15
+Week: 2 (13/02/23) 
+
+Assigned actions
+==============
+
+Action 1: Read SE.QA.07/08 and present to group.
+
+Made a presentation That Covers the two documents uploaded to the weeks folder by Monday night
+
+Hours: 2
+
+Action 2:  Test Specification, write more tests, fix history
+
+Made edits to the Test Specifications uploaded to this weeks folder by Monday night
+
+Hours: 2
+
+Action 3: Implementation issues 
+
+Research different algorithms for check/checkmate. Made Some Reseach on this topic still compiling document
+
+Hours: 1
+
+Total Hours: 5
+
+Other project work
+================
+N.A

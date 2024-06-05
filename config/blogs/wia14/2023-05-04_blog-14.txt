@@ -1,0 +1,30 @@
+Author WIA14
+Integration Week (07/05/23)
+
+Day: 4 - 04/05/23
+
+Assigned actions
+==============
+
+Action 1: Updated Class Diagram
+
+updated new methods in the class diagram
+
+Hours: 3
+
+
+Action 2: Updated design doc 
+
+Hours: 2
+
+
+Action 3: Updated Maintenance manual
+
+Hours: 2
+
+
+Other project work
+================
+
+
+Totals Hours: 6

@@ -1,0 +1,27 @@
+Author: BIY1
+Week: 1 (06/02/23)
+
+Assigned actions
+================
+
+Action 1: Read SE.QA.07 & 0.8 and presnt for class 
+Read both documents and wrote a summary for SE.QA0.7 and started on .8, however, Abdullah is going to present in class.
+
+Hours: 2
+
+Action 2: Make a UML Class Diagram for the project.
+
+I reasearched different possible program structures that would be useful and created a class diagram
+
+Hours: 3
+
+Other Project work
+==================
+
+Action 3: Similar projects
+
+Looked through other similar projects and took inspiration to be used when I start coding.
+
+Hours: 2
+
+Total hours: 7

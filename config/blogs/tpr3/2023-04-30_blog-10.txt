@@ -1,0 +1,41 @@
+Author: TPR3
+Week: 10 (30/04/23)
+
+Assigned actions
+==============
+
+Action 1: 
+
+Removed problems with EnPassant unit tests
+
+Hours: 0
+
+Action 2: Group work in the libray
+
+Worked on ui and helped design doc team
+
+Hours: 3
+
+Action 3: UI QA & design doc QA reviews
+
+Attended QA for UI & design doc, let deputy handle reviews
+to remain impartial
+
+Hours: 3
+
+
+Other project work
+================
+Action 4: Worked with team in library
+
+Worked with team after tutorial
+
+Hours: 4
+
+Action 5: Booked rooms for integration week
+
+All rooms booked for 10-6 every day
+
+Hours: 0
+
+Total hours: 10

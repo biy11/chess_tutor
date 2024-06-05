@@ -1,0 +1,47 @@
+Author: TPR3
+Week: 4 (27/02/23)
+
+Assigned actions
+==============
+
+Action 1: Arrange UI specification reviews
+
+Booked rooms and organised minutes for the two reviews for both UI documents
+
+Hours: 2
+
+Action 2: Attend and moderate UI specification reviews
+
+Booked and organised minutes for the two reviews for both UI documents
+
+Hours: 2
+
+Action 3: Use cases need to be restructured so that they are seperated into
+sections
+
+Seperated each use case into menu/main game screens
+
+Hours: 1
+
+Action 4: Grammatical errors
+
+Fixed some spelling mistakes and grammatical errors
+
+Hours: 1
+
+
+Other project work
+================
+Action 5: Update config_refs file
+
+Updated it to format correctly with all the changes
+
+Hours: 0
+
+Action 6: Update weekly hours
+
+Updated the hours according to blogs
+
+Hours: 0
+
+Total hours: 6

@@ -1,0 +1,101 @@
+Project: Group Project 02 
+Meeting: Test Specifiations review
+Persons present: TPR3, ABD15, MJS36, MIB60
+Place and date of meeting: Group study room 3, Monday 6th March 2023 
+Circulation list: All project members
+Author: Thomas Roethenbaugh 
+Date of minutes: 06/3/23 
+Version: 1.1
+
+Team:
+- ABD15: Abdullah Durrani QA Manager (deputy)
+- BIY1: Bilal Yousufzai
+- JAB153: Jack Book
+- LVS1: Lance Sebastian
+- MJS36: Michael Stamp Team Leader
+- MIB60: Michah Barendse
+- TPR3: Thomas Roethenbaugh QA Manager
+- WIA14: Will Abbott Team Leader (deputy)
+
+Matters arising 
+===============
+1. Review standards checklist A (SE.QA.07)
+- Question 1: PASSED
+- Question 2: PASSED
+- Question 3: PASSED
+- Question 4: PASSED
+- Question 5: PASSED
+- Question 6: PASSED
+
+- All questions passed
+ACTION: TPR3, MJS36
+
+2. Review standards checklist D (SE.QA.07)
+- Question 1: PASSED
+- Question 2: PASSED
+- Question 3: PASSED
+- Question 4: PASSED
+
+- All questions passed
+ACTION: TPR3, MJS36
+
+1. Gramatical/spelling mistakes
+- SE-F1-002 needs to be 'start game'
+- SE-F1-004 'Giving'
+- SE-F4-002 'white'
+- 'Out of play' needs to be 'captured piece'
+- Missing apostrophes
+- Inconsistent use of brackets
+- Inconsistent use of capital letters
+- Inconsistent use of full stops
+- 'Dark squared bishop'
+ACTION: ABD15, MIB60
+
+2. Question 1 failures
+- Date wrong, needs to be most recent date
+- Document needs to be in its own folder
+- Copyright needs to be dated to 2023
+- Spacing is needed for the authors section
+ACTION: ABD15, MIB60
+
+3. Problems with the contents page
+- Has not been updated
+DONE
+ACTION: ABD15, MIB60
+
+4. Incorrect section left in the document
+- USE CASE TESTS THAT NEED TO BE ADDED section should not be in the
+document and needs to be removed
+DONE
+ACTION: ABD15, MIB60
+
+5. Wrong refrencing
+- Needs to refence UI
+- No referencing Wikipedia
+DONE
+ACTION: ABD15, MIB60
+
+6. Versioning incorrect
+- Versioning is formatted wrong for the draft version (0.9.9)?
+DONE
+ACTION: ABD15, MIB60
+
+7. Each output needs to be filled
+- Missing outputs for several parts of the table
+DONE
+ACTION: ABD15, MIB60
+
+8. More detail on 1.1 and 1.2 (optional)
+- More detail could be added to the introductory sections
+DONE
+ACTION: ABD15, MIB60
+
+New business 
+============
+9. Weird capitalisations
+- Slight issues througout the document
+ACTION: ABD15, MIB60
+
+AOB 
+=== 
+none

@@ -1,0 +1,21 @@
+Author: lvs1
+Week: 5 (06/03/23)
+
+Assigned actions
+==============
+
+Other project work
+================
+Action 1: familiarise myself with the spike code
+
+Looked at it briefly
+
+hours: 0
+
+Action 2: Learn how to write JUnit Test code
+
+Researched the structure and methods
+
+hours: 0
+
+Total hours: 0

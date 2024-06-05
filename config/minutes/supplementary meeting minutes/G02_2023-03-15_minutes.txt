@@ -1,0 +1,58 @@
+Project: Group Project 02 
+Meeting: Supplementry Project Meeting 
+Persons present: All project members except BIY1
+Place and date of meeting: Group study room 2, Tuesday 15th March 2023  
+Circulation list: All project members, plus project manager
+Author: Thomas Roethenbaugh 
+Date of minutes: 15/3/23 
+Version: 1.1
+
+Team:
+- ABD15: Abdullah Durrani QA Manager (deputy)
+- BIY1: Bilal Yousufzai
+- JAB153: Jack Book
+- LVS1: Lance Sebastian
+- MJS36: Michael Stamp Team Leader
+- MIB60: Michah Barendse
+- TPR3: Thomas Roethenbaugh QA Manager
+- WIA14: Will Abbott Team Leader (deputy)
+
+Matters arising 
+===============
+1. Design doc
+- Sequence diagram needs "newWindow()" method
+- Michael will write significant algorithims
+- Abstract classes
+- Add new column "method type"
+ACTION: TPR3, JAB153, WIA14, MJS36
+
+2. GUI
+- Issues with code formatting
+- Issues with screen size and resizing
+ACTION: ABD15, BIY1
+
+4. Unit testing
+- More unit tests need to be completed
+- Errors with current unit tests need to be addressed
+ACTION: LVS1
+
+5. Saving and loading
+- Needs to be integrated with the rest of the program
+ACTION: MIB60
+
+6. Program integration
+- All new work will be kept in the chess tutor folder
+- Discussion on how to integrate various sytems (GUI, backend etc)
+ACTION: ALL
+
+
+New business 
+============
+7. System tests
+- A new class will be created which will be used to help with
+system tests by creating a simulated game to work from
+ACTION: ALL
+
+AOB 
+=== 
+none

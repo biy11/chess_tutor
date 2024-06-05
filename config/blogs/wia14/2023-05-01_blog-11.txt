@@ -1,0 +1,31 @@
+Author WIA14
+Integration Week (07/05/23)
+
+Day: 1 - 01/05/23
+
+Assigned actions
+==============
+
+Action 1: Created new piece icons
+
+Created new pieces to be used  in-game, so that they're void from potential copyright issues
+
+Hours: 3
+
+
+Action 2: Updated class diagram
+
+Hours: 1
+
+
+Action 3: Added to maintenance manual
+
+Hours: 2
+
+
+
+Other project work
+================
+
+
+Totals Hours: 6

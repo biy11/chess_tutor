@@ -1,0 +1,24 @@
+Author: TPR3
+Week: 8 (17/04/23)
+
+Assigned actions
+==============
+
+Action 1: Unit tests
+
+Completed Castling, EnPassant, Promotion & MakeMove unit tests, found 
+several bugs & problems with the backend code format.
+
+Hours: 5
+
+
+Other project work
+================
+Action 2: GitLab issues
+
+Created several GitLab issues for people to work from with checklists 
+that can be used to track progress
+
+Hours: 4
+
+Total hours: 9

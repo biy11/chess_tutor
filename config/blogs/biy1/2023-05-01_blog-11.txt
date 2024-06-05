@@ -1,0 +1,30 @@
+Author: BIY1
+Week: 11 (01/05/23)
+
+Assigned actions
+================
+
+Action 1: Create functionality to re-play games.
+
+Worked with Micah to create the ReplayGame class and make it functional
+
+Hours: 3
+
+Action 2: Fixed menu options to be displayed as shown in the UI spec.
+
+Worked with Michael to fix menu display and improved GameGui class where needed.
+
+Hours: 4
+
+Other Project work
+==================
+
+Action 2: Added style and fixed layout. 
+
+As we focused on bigger taskes during the integration day, so I added styles and fixed layout of the work we did.
+
+Hours: 1
+
+
+Total hours: 8
+

@@ -1,0 +1,21 @@
+Author: MJS36
+Week: 11 (04/05/23)
+
+
+Assigned actions
+============== 
+
+
+Supplementary Assigned actions (decided in private group meeting)
+==============
+
+
+Other project work
+================
+
+Worked on System Tests today and fix any errors that came up. Namely, fixed Save games so the naming format is now 000 instead of just 0, this sorts better when loading. Also fix Castling so it can't Castle if it transverse's a square that will put it in check. I also added Check/Checkmate highlighting to the replay. I fixed any minor bugs and tweaks that came up. The code, apart from MORE testing, is now finished.
+
+Hours: 9
+
+
+Total hours: 9

@@ -1,0 +1,22 @@
+Author: jab153
+Week: 2 (06/02/23)
+
+Assigned actions
+==============
+
+Action 1: Started to work on increasing the detail of Use Cases for users
+
+Hours: 1
+
+
+
+
+
+Other project work
+================
+
+Action 1: Created flow diagram for UI menus
+
+Hours: 2
+
+Total hours: 3

@@ -1,0 +1,56 @@
+Project: Group Project 02 
+Meeting: Integration week day 5
+Persons present: All project members
+Place and date of meeting: Group study room 6/C56, Friday 5th May 2023 
+Circulation list: All project members
+Author: Thomas Roethenbaugh
+Date of minutes: 5/5/23 
+Version: 1.1
+
+Team:
+- ABD15: Abdullah Durrani QA Manager (deputy)
+- BIY1: Bilal Yousufzai
+- JAB153: Jack Book
+- LVS1: Lance Sebastian
+- MJS36: Michael Stamp Team Leader
+- MIB60: Michah Barendse
+- TPR3: Thomas Roethenbaugh QA Manager
+- WIA14: Will Abbott Team Leader (deputy)
+
+Matters arising 
+===============
+1. Code review
+- Went through every class a question for
+code review
+- Some minor changes were needed
+- After changes the code passed all tests
+ACTION: TPR3, LVS1
+
+2. Repository repair
+- Going through blogs
+- Going through all minutes 
+- Updating weekly hours
+ACTION: TPR3
+
+3. Design doc diagrams
+- All diagrams updated
+- Sequence diagrams added
+ACTION: JAB153, WIA14, LVS1, TPR3
+
+4. Maintenance manual
+- Maintenance manual completed by dev
+and document team
+ACTION: JAB153, WIA14, MJS36
+
+5. Update UI spec
+- UI presentation updated
+- UI spec updated
+ACTION: JAB153, WIA14, MJS36, MIB60
+
+5. Updated README file
+- README file updated
+ACTION: MJS36
+
+AOB 
+=== 
+none

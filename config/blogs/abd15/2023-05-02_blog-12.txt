@@ -1,0 +1,31 @@
+Author: abd15
+Week: 11 (02/05/23)
+ 
+Assigned actions
+================
+
+Action 1: Worked on Bug Testing
+
+Played the game in certain different ways to find bugs
+
+Hours: 2
+
+Action 2: Worked on the GUI and Pieces
+
+Worked with will to create pieces for the board that do not look low resolution and bad as well as try alternative colors for the main board
+
+Hours: 3
+
+Action 3: Program Fixing
+
+Worked with the backend and frontend team to figure out why the game had stopped working correctly as it was not displaying the pieces on the board this was not figured out in time
+but eventually it was discovered that CodeWithMe had corrupted the PNG files of the pieces when somebody had tryed to move them or display them
+
+Hours: 4
+
+Other Project work
+==================
+N.A
+
+Total hours: 8
+

@@ -1,0 +1,38 @@
+Author: MJS36
+Week: 3 (20/02/23)
+
+
+Assigned actions
+==============
+
+
+Supplementary Assigned actions (decided in private group meeting)
+==============
+
+Action 1: Start main code
+
+IntelliJ project setup and settings changed to mirror spec
+
+Hours: 1
+
+
+Other project work
+================
+
+Attended supplementary group meeting
+
+Hours: 2
+
+UML Class Diagram
+
+Started on the UML class diagram. Will wait to meet with others to see if this work has already been started
+
+Hours: 1
+
+Prepare for UI review
+
+Read and noted prepared UI documents ready for review meeting
+
+Hours: 1
+
+Total hours: 5

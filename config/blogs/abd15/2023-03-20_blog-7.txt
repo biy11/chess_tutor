@@ -1,0 +1,34 @@
+Author: abd15
+Week: 7 (20/03/23)
+ 
+Assigned actions
+==============
+
+Action 1: GameGui Code
+
+Worked with Bilal on the Game gui on a code with me session 
+
+Hours: 8
+
+Action 2: Worked on the movement of the pieces on the Gameboard 
+
+Less then 1 nothing worth to commit
+
+Hours: 3
+
+Other project work
+================
+
+Action 3: Test specification
+
+Looked over the changes made by Micah of the Test Specification 
+
+Hour: 1
+
+Action 4: Had Meetings with Bilal
+
+Had discord meetings in between our coding session where we would give updates
+
+Hours: 2
+
+Total hours: 14

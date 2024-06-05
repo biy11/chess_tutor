@@ -1,0 +1,27 @@
+Author WIA14
+Integration Week (07/05/23)
+
+Day: 2 - 02/05/23
+
+Assigned actions
+==============
+
+Action 1: Updated pieces
+
+Changed Pieces to size of each cell 
+
+Hours: 3
+
+
+Action 2: Updated class diagram
+
+Updated class diagram to include new classes and updated classes
+
+Hours: 3
+
+
+Other project work
+================
+
+
+Totals Hours: 6

@@ -1,0 +1,36 @@
+Author: TPR3
+Week: 6 (14/03/23)
+
+Assigned actions
+==============
+
+Action 1: Design doc
+
+Created 1 UML sequence diagram, in the process of creating the second.
+Created sections for algorithims and data structures, filled them out
+best as could be.
+
+Hours: 3
+
+Action 2: Work on UI feedback
+
+No action taken this week
+
+Hours: 0
+
+
+Other project work
+================
+Action 3: Arrange design doc review
+
+Booked rooms for design doc
+
+Hours: 0
+
+Action 4: Update weekly hours
+
+Updated the hours according to blogs
+
+Hours: 0
+
+Total hours: 3

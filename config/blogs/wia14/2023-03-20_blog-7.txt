@@ -1,0 +1,56 @@
+Author WIA14
+Week: 7 (20/03/23)
+
+Assigned actions
+==============
+
+Action 1: Created class diagram
+
+Created the UML class diagram, including all the relevant fields and methods for each class
+
+Hours: 3
+
+
+Action 2: Changed formatting of interface description
+
+changed the formatting of fields to make it more consistent with class diagram
+
+Hours: 1
+
+
+Action 3: Attended Supplementary meeting
+
+Attended Supplementary meeting and discussed changes made and changes needed to the Design document
+and program
+
+Hours: 2
+
+
+Action 4: Attended Design Document review
+
+Attended design document review and went through the document, to check whether it had passed
+the criteria 
+
+Hours: 1
+
+
+Action 5: Updated UML class diagram 
+
+Updated the class diagram by removing classes that no longer existed. Also changed the layout to
+make the diagram fit the page within the design document
+
+Hours: 2
+
+
+
+
+Other project work
+================
+
+Created new background image for Chess tutor main menu using Blender
+
+Hours: 3
+
+
+
+Totals Hours: 12

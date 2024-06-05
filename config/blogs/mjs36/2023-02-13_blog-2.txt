@@ -1,0 +1,52 @@
+Author: MJS36
+Week: 2 (13/02/23)
+
+
+Assigned actions
+==============
+
+Action 1: Java and JavaFX
+
+More work was done of GUI and polymorphism was better utilised
+
+Hours: 3
+
+Action 2: Algorithm for Checkmate
+
+A brute force approach was thought of. This would find the valid moves for the king, and every move of the opponents pieces. If an opponents could move to the kings location, but the king could move, that would be check. If it could move, that would be check mate. Friendly players would also be checked to see if they can sacrifice and block the king from danger.
+Another similar approach would be to check if any piece has line of sight of the king, checking up, down, left, and right; remembering the knight can jump.
+
+Hours: 1
+
+
+Supplementary Assigned actions (decided in private group meeting)
+==============
+
+Action 1: 
+
+
+
+Hours: 0
+
+
+Other project work
+================
+
+Attended supplementary group meeting
+
+Hours: 2
+
+Basic maintenance of discord server - creating roles and channels
+
+Hours: 1
+
+Reading of all specs to prepare for Project Leader Role
+
+I must maintain a goal list - identifying milestones and deliverables. 
+I must review all time expended by members and each week, a 'summary progress' report which will be presented to all group member.
+I will arrange with the QA Manager to organise review meetings for code and documents
+
+Hours: 2
+
+
+Total hours: 9

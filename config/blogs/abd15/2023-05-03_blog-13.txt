@@ -1,0 +1,30 @@
+Author: ABD15
+Week: 11 (03/05/23)
+
+Assigned actions 
+================
+
+Action 1: Bug Finding
+
+Played the game cartain ways to find bugs found one involving checkmate not letting me save the replay
+
+Hours: 1
+
+Action 2: Test Spec and report corrections
+
+Rewrote the promotion tests and fixed some grammer as well as added Lance's checkmate tests to the report
+
+Hours: 2
+
+Action 3: Code review work
+
+Went over every single class fixing Javadoc comments and getting rid of warnings as well as adding copywrite notices
+
+Hours: 5
+
+Other Project work
+==================
+N.A
+
+Total hours: 8
+

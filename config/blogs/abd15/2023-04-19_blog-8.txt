@@ -1,0 +1,20 @@
+Author: abd15
+Week: 8 (19/04/23) (Easter blog) 
+
+Assigned actions
+================
+
+None
+
+Other project work
+================
+
+Action 1: SceneBuilder Gui reseach 
+ 
+I reseached if we Needed to use SceneBuilder with a controller for the chess game and if it was more efficient.
+I determined that it was not minimal improvements.
+
+Hours : 2
+
+
+Total hours: 2

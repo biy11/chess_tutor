@@ -1,0 +1,29 @@
+Author: lvs1
+Week: 11 (04/05/23)
+
+Assigned actions
+==============
+
+Action 1: Check and Update Java Comments on JUnit Tests
+
+Went through the JUnit Tests that Bilal had commented
+
+hours: 0
+
+Action 2: Sequence Diagrams
+
+Researched and Created the Main Menu Sequence Diagram, currently developing
+Replay Sequence Diagram
+
+hours: 5
+
+Action 3: System Testing the Program
+
+Tested the program using the system tests alongside Thomas and Abdullah
+
+hours: 3
+
+Other project work
+================
+
+Total hours: 8

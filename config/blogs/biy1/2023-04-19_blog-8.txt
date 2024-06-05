@@ -1,0 +1,23 @@
+Author: BIY1
+Week: 10 (19/04/23) (Easter blog)
+
+Assigned actions
+================
+
+Action 1: Add movement to chess pieces.
+
+I contninued working on the GameGui.java class to make pieces movable, for players to be able to play the game.
+
+Hours: 21
+
+Other Project work
+==================
+
+Action 2: Re-searched solutions for chess movement. 
+
+Looked into event-handlers and mouse-handlers
+
+Hours: 3
+
+Total hours: 24
+

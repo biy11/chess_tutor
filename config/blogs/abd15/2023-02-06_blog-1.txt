@@ -1,0 +1,56 @@
+Author: abd15
+Week: 1 (06/02/23) 
+
+Assigned actions
+==============
+
+Action 1: One or two people to read SE.QA.06 and to start making system tests for the 
+test specification and to report back to the group next week
+
+Made a presentation about the rules of chess and talked with micah on discord to discuss
+what type of system tests we nned started on a draft for some of them 
+
+Hours: 2
+
+Action 2: Everyone must watch the Panopto recording on how to build the UI specification
+
+Watched in the Tutorial 
+
+Hours: 0
+
+Action 3: Everyone must read the group project introduction document and the 
+requirements specification. 
+
+Read it by myself and made some notes
+
+Hours: 1
+
+Action 6: Start thinking about who should be project leader and quality
+assurance manager and their deputies. Discuss next week.
+
+Meet with the team about this in the supplementary meeting 
+
+Hours: 0
+
+Action 7: Blogs
+
+Blog done at 9 at Monday night ready for tommorow's Tutorial meeting 
+
+Hours: 0
+
+Action 8: Meeting with team in the libary
+
+Suplementary meeting which was a general discussion about our tasks and it was kinda gave a direction towards our more vague tasks
+
+Hours: 1
+
+Other project work
+================
+
+Action 9: Spontaneous meetings
+
+Had more Spontaneous meetings where not everyone was present where more out of project happenings were discussed but some minor details were hashed out rounded up from about 1.5 hours+ 2 hour
+
+Hours: 1
+
+Total hours: 6

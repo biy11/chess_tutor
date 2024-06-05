@@ -1,0 +1,22 @@
+Author: BIY1
+Week: 6 (13/03/23)
+
+Assigned actions
+================
+
+Action 1: Main menu and start game GUI 
+
+I devloped gameGui.java class and added functionlaity as well as a styles.css file to be used in the javaFx class
+
+Hours: 10
+
+Other Project work
+==================
+
+Action 2: Research javaFx to be used in Action 1. 
+
+I looked over past javaFx work and researched different needed aspect to fully complete Action 1
+
+Hours: 2
+
+Total hours: 12

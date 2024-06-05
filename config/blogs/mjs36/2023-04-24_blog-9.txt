@@ -1,0 +1,31 @@
+Author: MJS36
+Week: 9 (24/04/23)
+
+
+Assigned actions
+==============
+
+Action 1: Final Report
+
+Started on the final report and wrote evaluations of group members
+
+Hours: 3
+
+
+Supplementary Assigned actions (decided in private group meeting)
+==============
+
+
+Other project work
+================
+
+Attempted to understand the frontend code. The code was very different to the spike code I had worked on. Problems were obviously encountered by the team but no help was asked for. I am trying to schedule when they are free so we can finally link it to the backend. Something that should have been done after getting the basic graphics completed.
+
+Hours: 1 
+
+Backend code changed to reflect java standards spec.
+
+Hours: 1
+
+
+Total hours: 5

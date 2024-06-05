@@ -1,0 +1,23 @@
+Author: MJS36
+Week: 11 (02/05/23)
+
+
+Assigned actions
+==============
+
+
+Supplementary Assigned actions (decided in private group meeting)
+==============
+
+
+Other project work
+================
+
+Answered technical questions from group. Worked on GameGui. Got the game to a workable state - ie no error and played well. 
+
+Later went to refactor code and add javadoc to gui/board package.
+
+Hours: 9
+
+
+Total hours: 9

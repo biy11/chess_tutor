@@ -1,0 +1,110 @@
+Project: Group Project 02 
+Meeting: Weekly Project Meeting 
+Persons present: All project members
+Place and date of meeting: C57a, Tuesday 7th February 2023 
+Circulation list: All project members, plus project manager 
+Author: Chris Loftus 
+Date of minutes: 7/2/23 
+Version: 1.1
+
+Team:
+- abd15: Abdullah Durrani
+- biy1: Bilal Yousufzai
+- jab153: Jack Book
+- lvs1: Lance Sebastian
+- mjs36: Michael Stamp
+- mib60: Michah Barendse
+- tpr3: Thomas Roethenbaugh
+- wia14: Will Abbott
+
+Matters arising 
+===============
+1. One or two people to read SE.QA.04 and start working on UI specification
+by making a list of possible use cases based on the requirements document.
+Also UC diagram done
+DONE
+ACTION: LVS1, TPR3, WIA14
+
+2. Everyone must watch the Panopto recording on how to build the UI specification.
+Done
+ACTION: ALL
+
+3. Everyone must read the group project introduction document and the 
+requirements specification. 
+Done
+ACTION: ALL
+
+4. One or two people to read SE.QA.06 and to 
+start making system tests for the test specification.
+DONE
+ACTION: ABD15, MIB60
+
+5. One or two people to think about implementation – what kinds 
+of code will you need? What are the difficult problems? 
+Did some initial coding
+DONE
+ACTION: MJS36, TPR3
+
+6. One or two people to try starting to program the on-screen display: 
+that is get up to speed with javafx. 
+DONE
+ACTION: LVS1, MJS36, TPR3
+
+7. Someone to look into the documents SE.QA.01, 02 and 03, 
+and to explain how QA works on the project.
+DONE
+ACTION: BIY1, JAB153
+
+8. Start thinking about who should be project leader and quality
+assurance manager and their deputies.
+QA manager: Thomas, QA deputy: Abdullah
+Project leader decided tomorrow
+ACTION: ALL
+
+9. Blogs for next tutorial. To be added to gitlab the
+day before the tutorial.
+Status?
+ACTION: ALL
+
+10. Internal meeting discussed: Wednesday libray. After 1pm. 
+Will confirm on Discord. Will book room. ACTION: TPR3: DONE!
+1:30pm Group study room 6, 1st Feb
+DONE
+
+11. Comms mechanism to use: own Discord server. 
+YES
+ACTION: MJS36
+
+New business 
+============
+12. UI specification
+- More detail
+- UC descriptions
+- UC diagram add to spec
+- UI prototype screens
+ACTION: LVS1, TPR3, WIA14
+
+13. Test specification.
+- More tests
+- Fix history
+ACTION: ABD15, MIB60
+
+14. Implementation issues 
+- Research different algorithms for check/checkmate
+- 
+ACTION: MJS36, TPR3, ABD15
+
+15. javafx. 
+- SceneBuilder, CSS ....
+ACTION: LVS1, MJS36, TPR3
+
+16. Project leader. Decide tomorrow
+ACTION: ALL
+
+17. Read SE.QA.07/08 and present to group.
+ACTION: ABD15, BIY1
+
+AOB 
+=== 
+18. Shared intellij project: 
+ACTION: TPR3

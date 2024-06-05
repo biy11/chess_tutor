@@ -1,0 +1,88 @@
+Project: Group Project 02 
+Meeting: User interface specification review
+Persons present: TPR3, LVS1, WIA14, MJS36, JAB153, ABD15
+Place and date of meeting: Group study room 4, Tuesday 22nd February 2023 
+Circulation list: All project members
+Author: Thomas Roethenbaugh 
+Date of minutes: 22/2/23 
+Version: 1.1
+
+Team:
+- ABD15: Abdullah Durrani QA Manager (deputy)
+- BIY1: Bilal Yousufzai
+- JAB153: Jack Book
+- LVS1: Lance Sebastian
+- MJS36: Michael Stamp Team Leader
+- MIB60: Michah Barendse
+- TPR3: Thomas Roethenbaugh QA Manager
+- WIA14: Will Abbott Team Leader (deputy)
+
+Matters arising 
+===============
+1. Review standards checklist A (SE.QA.07)
+- Passed all questions
+ACTION: TPR3, MJS36
+
+2. Review standards checklist B (SE.QA.07)
+- Question 1: PASSED
+- Question 2: FAILED
+- Question 3: FAILED
+- Question 4: FAILED
+- Question 5: PASSED
+- Question 6: FAILED
+- Question 7: FAILED
+- Question 8: PASSED
+- Question 9: FAILED
+
+- 3/9 passed overall
+ACTION: TPR3, MJS36
+
+New business 
+============
+3. Grammatical errors
+- There were various grammatical and sentence structure problems with 
+the document. We were not able to cover them all but decided it was
+enough to warrant a look over
+- Under beginner, the last sentence needs to be changed to 'to indicate'
+- Everything needs to be changed to American spelling 'color'
+ACTION: TPR3, JAB153, LVS1, WIA14
+
+4. Problems with use cases
+- UC03 does not have enough detail
+- UC05 needs to be changed to 'capture piece' and correct 'USB05'
+- UC06 promotion is mandatory and the use case has to reflect this
+- UC13 castling can only prompted when the King is selected and not the rook
+- UC13 should now mention a yellow prompt instead of lowered opacity
+- New use case needed for accepting a draw offer
+ACTION: TPR3, JAB153, LVS1, WIA14
+
+5. Use cases need to be restructured so that they are seperated into
+sections
+- The use cases were in a semi-random order which made things confusing for
+the presentation. They will need to be organised into a more cohesive format.
+ACTION: TPR3, JAB153, LVS1, WIA14
+
+6. Refrencing Wikipedia is not allowed
+- Changing to the refrences needs to be completed
+ACTION: TPR3, JAB153, LVS1, WIA14
+
+7. Problems with error conditions
+- There needs to be a new error condition covering resizing the chess game
+window
+- EC04 needs more detail and changed to 'capture piece'
+- There needs to be an error condition for promotion
+ACTION: TPR3, JAB153, LVS1, WIA14
+
+8. Issues with the presentation
+- Removed pieces bars need to be changed and made smaller
+- UC13 should use yellow instead of lowered opacity
+- There need to be clearer prompts for who's turn it is (maybe in the corner)
+- If the opposing player offers a draw it should be clear it is the other player
+who is deciding to accept
+- Chess board pattern was incorrect
+- Sub heading for error conditions is irrelevant
+ACTION: TPR3, JAB153, LVS1, WIA14
+
+AOB 
+=== 
+NONE

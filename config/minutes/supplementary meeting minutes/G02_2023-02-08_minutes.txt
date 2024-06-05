@@ -1,0 +1,67 @@
+Project: Group Project 02 
+Meeting: Supplementary Project Meeting
+Persons present: All project members
+Place and date of meeting: Group study room 8, Tuesday 8th February 2023 
+Circulation list: All project members
+Author: Thomas Roethenbaugh
+Date of minutes: 8/2/23 
+Version: 1.1
+
+Team:
+- abd15: Abdullah Durrani
+- biy1: Bilal Yousufzai
+- jab153: Jack Book
+- lvs1: Lance Sebastian
+- mjs36: Michael Stamp
+- mib60: Michah Barendse
+- tpr3: Thomas Roethenbaugh
+- wia14: Will Abbott
+
+Matters arising 
+===============
+1. Will & Mike's speeches
+ACTION: wia14, mjs36
+DONE
+
+2. Vote for the team lead
+ACTION: wia14, mjs36
+Mike elected as team lead, Will now deputy team lead
+
+3. Go over the responsibilities of QA lead & QA deputy (blogs, minutes, etc)
+ACTION: tpr3
+DONE
+
+4. Go over each deadline for the project
+ACTION: tpr3
+DONE
+
+5. Ask Jack what he wants to do this week
+ACTION: jab153
+Jack is now working alongside Will and Lance to complete the UI documents
+as well as work with Bilal to research other implementations of chess so
+we get a better grasp of what kinds of data structures and algorithms we
+will need.
+
+6. Decide who will work on the presentation & make it clear what they need 
+to do as well as when they need to do it by.
+ACTION: wia14, lvs1, jab153
+Discussed deadlines and what will be required by the team. Jack added to the
+UI team.
+
+7. UML diagrams
+ACTION: biy1, jab153
+Bilal will work on the UML diagrams, figuring out what kinds of classes, 
+methods and other parts about the structure of the program.
+
+8. Sebastian’s Use Case diagram for the UI document
+ACTION: lvs1
+DONE
+
+9. Shared calendar/Emailing events
+ACTION: tpr3
+Team was informed about how they will now be notified about deadlines and 
+events from now on.
+
+AOB 
+=== 
+NONE

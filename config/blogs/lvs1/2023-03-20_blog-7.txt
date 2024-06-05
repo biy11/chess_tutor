@@ -1,0 +1,16 @@
+Author: lvs1
+Week: 7 (20/03/23)
+
+Assigned actions
+==============
+
+Action 1: Finish remaining JUnit Tests
+
+Completed the initial tests laid out in Pieces
+
+hours: 13
+
+Other project work
+================
+
+Total hours: 13

@@ -1,0 +1,54 @@
+Project: Group Project 02 
+Meeting: User interface specification review
+Persons present: TPR3, LVS1, WIA14, MJS36, JAB153
+Place and date of meeting: Group study room 2, Tuesday 27th February 2023 
+Circulation list: All project members
+Author: Thomas Roethenbaugh 
+Date of minutes: 27/2/23 
+Version: 1.1
+
+Team:
+- ABD15: Abdullah Durrani QA Manager (deputy)
+- BIY1: Bilal Yousufzai
+- JAB153: Jack Book
+- LVS1: Lance Sebastian
+- MJS36: Michael Stamp Team Leader
+- MIB60: Michah Barendse
+- TPR3: Thomas Roethenbaugh QA Manager
+- WIA14: Will Abbott Team Leader (deputy)
+
+Matters arising 
+===============
+1. Review standards checklist A (SE.QA.07)
+- Passed all questions
+ACTION: TPR3, MJS36
+
+2. Review standards checklist B (SE.QA.07)
+- Question 1: PASSED
+- Question 2: PASSED
+- Question 3: PASSED
+- Question 4: PASSED
+- Question 5: PASSED
+- Question 6: PASSED
+- Question 7: PASSED
+- Question 8: PASSED
+- Question 9: PASSED
+
+- 9/9 passed overall
+ACTION: TPR3, MJS36
+
+New business 
+============
+3. UI spec minor fixes
+- Full stops on some error conditions & use cases
+- Third person on the introduction
+- Change remove peice to 'capturing' 
+- UC09 changed to 'indicating with a circle'
+
+4. Presentation minor fixes
+- If possible before tutorial, add page numbers to presentation
+- If possible before tutorial, add titles to use case sections
+
+AOB 
+=== 
+NONE
