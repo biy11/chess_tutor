@@ -13,23 +13,6 @@ Michael : mjs36
 Thomas : tpr3  
 Will : wia14  
 
-Project Leader : Michael  
-QA Manager : Thomas  
-
-## Useful Commands:
-
-git pull / git add . / git commit -m "WRITE COMMIT MESSAGE HERE" / git push
-
-To restore deleted files or edited files:  
-git restore "File Location inside" for example: git restore config/blogs/abd15/2023-01-23_blog-1.txt
-
-To remove files from main repository, which should have been ignored:  
-git rm --cached -r out/   [-r is recursive - out is directory]
-
-## Note:
-
-Don't include 'out' directory for source code
-
 ## Execution Instructions
 
 If JavaFx libraries are installed the jar file should just be runnable by clicking on it.
